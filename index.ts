@@ -4,17 +4,17 @@ import { readFileSync } from "node:fs";
 import { join as joinPath } from "node:path";
 import { createInterface } from "node:readline/promises";
 import { stdin, stdout } from "node:process";
-import { computeBestWord } from "./wordHelpers.ts";
+import { WordTree } from "./types.ts";
 
 const SCORE_REGEXP = /[0-5]{3}/;
 
 let word: string = "";
-let scoreMap: Record<number, Array<string>> = {};
+let scoreMap: Record<number, WordTree> = {};
 
 try {
   (
     { word, scoreMap } = JSON.parse(readFileSync(
-      joinPath(import.meta.dirname || "", ".word500.init.json"),
+      joinPath(import.meta.dirname || "", ".word500.map.json"),
       {
         encoding: "utf8",
       },
@@ -22,19 +22,10 @@ try {
   );
 } catch {
   console.log(
-    "Error reading .word500.init.json. File may be missing or malformed.",
+    "Error reading .word500.map.json. File may be missing or malformed.",
   );
   Deno.exit(1);
 }
-
-if (!word || !scoreMap) {
-  console.log(
-    "Unable to load initial state. .word500.init.json may be malformed.",
-  );
-  Deno.exit(1);
-}
-
-const allWords = Object.values(scoreMap).flat().sort();
 
 const readline = createInterface(stdin, stdout);
 const queryScore = async (): Promise<number> => {
@@ -54,24 +45,26 @@ const queryScore = async (): Promise<number> => {
 
 let score = 5;
 while (score !== 500) {
-  let remainingWords: Array<string> | undefined = undefined;
   console.log(word);
 
-  while (!remainingWords) {
+  word = "";
+  while (!word) {
     score = await queryScore();
     if (score === 500) {
       console.log("Congratulations!");
       Deno.exit(0);
     }
 
-    remainingWords = scoreMap[score];
-    if (!remainingWords) {
+    const nextData = scoreMap[score];
+    if (!nextData) {
       console.log("Unable to recommend next move. Word list may be incomplete");
+      continue;
+    }
+    if (typeof nextData === "string") {
+      word = nextData;
+    } else {
+      word = nextData.word;
+      scoreMap = nextData.scoreMap;
     }
   }
-
-  ({ word, scoreMap } = computeBestWord(
-    remainingWords,
-    Array.from(new Set([...remainingWords, ...allWords])),
-  ));
 }
