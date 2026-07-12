@@ -66,24 +66,26 @@ export const computeEntropy = (
   scoreMap: Record<number, Array<string>>,
 ): number => {
   return Object.values(scoreMap).reduce((prev, curr) => {
-    return prev += Math.log(curr.length);
+    return prev -= curr.length * Math.log(curr.length);
   }, 0);
 };
 
 export const computeBestWord = (
-  words: Array<string>,
+  candidateList: Array<string>,
+  wordList?: Array<string>,
 ): {
   word: string;
   scoreMap: Record<number, Array<string>>;
 } => {
-  if (!words.length) {
+  if (!candidateList.length) {
     throw new Error("empty word list");
   }
+  if (!wordList) wordList = candidateList;
   let bestWord: string = "";
   let bestScoreMap: Record<number, Array<string>> = {};
   let bestEntropy = -Infinity;
-  for (const word of words) {
-    const scoreMap = computeScoreMap(word, words);
+  for (const word of wordList) {
+    const scoreMap = computeScoreMap(word, candidateList);
     const entropy = computeEntropy(scoreMap);
     if (entropy > bestEntropy) {
       bestWord = word;

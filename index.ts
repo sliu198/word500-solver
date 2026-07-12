@@ -34,6 +34,8 @@ if (!word || !scoreMap) {
   Deno.exit(1);
 }
 
+const allWords = Object.values(scoreMap).flat().sort();
+
 const readline = createInterface(stdin, stdout);
 const queryScore = async (): Promise<number> => {
   while (true) {
@@ -68,5 +70,8 @@ while (score !== 500) {
     }
   }
 
-  ({ word, scoreMap } = computeBestWord(remainingWords));
+  ({ word, scoreMap } = computeBestWord(
+    remainingWords,
+    Array.from(new Set([...remainingWords, ...allWords])),
+  ));
 }
