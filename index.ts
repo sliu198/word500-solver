@@ -61,7 +61,8 @@ while (score !== 500) {
       continue;
     }
     if (typeof nextData === "string") {
-      word = nextData;
+      console.log(`Your word is ${nextData}`)
+      Deno.exit()
     } else {
       word = nextData.word;
       scoreMap = nextData.scoreMap;

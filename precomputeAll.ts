@@ -3,91 +3,118 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { join as joinPath } from "node:path";
 import { setTimeout } from "node:timers/promises";
-import { computeBestWord } from "./wordHelpers.ts";
+import { compare, computeBestWord } from "./wordHelpers.ts";
 import { ProgressBar } from "@std/cli/unstable-progress-bar";
+import { WordTree } from "./types.ts";
 
-type WordTree = string | {
-  word: string;
-  scoreMap: Record<number, WordTree>;
-};
-
-const allWords = readFileSync(
-  joinPath(import.meta.dirname || "", "word500.txt"),
+const allCandidates = new  Set(readFileSync(
+  joinPath(import.meta.dirname || "", "candidates.txt"),
   {
     encoding: "utf8",
   },
-).split("\n").map((word) => word.trim()).filter(Boolean);
+).split("\n").map((word) => word.trim()).filter(Boolean));
 
-if (!allWords.length) {
-  console.log("Empty word list. Exiting");
+if (!allCandidates.size) {
+  console.log("Empty candidates list. Exiting");
   Deno.exit();
 }
 
-const progress = new ProgressBar({
-  max: allWords.length,
+const validWords = new Set(readFileSync(
+  joinPath(import.meta.dirname || "", "words.txt"),
+  {
+    encoding: "utf8",
+  },
+).split("\n").map((word) => word.trim()).filter(Boolean));
+
+if (!validWords.size) {
+  console.log("Empty words list. Exiting");
+  Deno.exit();
+}
+
+let progress = new ProgressBar({
+  max: validWords.size * allCandidates.size,
   formatter(formatter) {
-    return `${formatter.value} / ${formatter.max}`;
+    return `Computing word scores [${formatter.progressBar}] ${formatter.value} / ${formatter.max}`;
   },
 });
-const triedWords = new Set<string>();
+await setTimeout()
 
-await setTimeout();
-const { word, scoreMap } = computeBestWord(allWords);
+const wordScores: Record<string, Record<string, number>> = {}
+
+for (const word of validWords) {
+    wordScores[word] = {}
+    for (const candidate of allCandidates) {
+        wordScores[word][candidate] = compare(word, candidate)
+        progress.value += 1
+        if (progress.value % 1e5 === 0)
+          await setTimeout()
+    }
+}
+await progress.stop()
+
+progress = new ProgressBar({
+  max: allCandidates.size,
+  formatter(formatter) {
+    return `Building decision tree [${formatter.progressBar}] ${formatter.value} / ${formatter.max}`;
+  },
+});
+await setTimeout()
+
+const remainingCandidates = new Set(allCandidates)
+
+const { word, scoreCandidates } = computeBestWord(wordScores, allCandidates);
 const result: WordTree = {
   word,
   scoreMap: {},
 };
-delete scoreMap[500];
-triedWords.add(word);
-progress.value = triedWords.size;
+delete scoreCandidates[500];
+remainingCandidates.delete(word);
+progress.value = allCandidates.size - remainingCandidates.size;
 const pending: Array<
-  [Record<number, WordTree>, Record<number, Array<string>>]
-> = [[result.scoreMap, scoreMap]];
-do {
+  [Record<number, WordTree>, Record<number, Set<string>>]
+> = [[result.scoreMap, scoreCandidates]];
+while (true) {
   const next = pending.shift();
   if (!next) break;
 
-  const [result, scoreMap] = next;
+  const [scoreMap, scoreCandidates] = next;
 
   for (
-    const [score, words] of Object.entries(scoreMap).sort((
+    const [score, candidates] of Object.entries(scoreCandidates).sort((
       [scoreA],
       [scoreB],
     ) => Number(scoreB) - Number(scoreA))
   ) {
-    if (words.length === 1) {
-      result[Number(score)] = words[0];
-      triedWords.add(words[0]);
-      progress.value = triedWords.size;
+    if (candidates.size === 1) {
+      const word = [...candidates].pop()!
+      scoreMap[Number(score)] = word;
+      remainingCandidates.delete(word);
+      progress.value = allCandidates.size - remainingCandidates.size;
+      await setTimeout();
       continue;
     }
 
-    await setTimeout();
     const {
       word,
-      scoreMap,
+      scoreCandidates,
     } = computeBestWord(
-      words,
-      Array.from(
-        new Set([
-          ...words,
-          ...allWords,
-        ]),
-      ),
+      wordScores,
+      candidates
     );
 
-    delete scoreMap[500];
-    triedWords.add(words[0]);
-    progress.value = triedWords.size;
+    delete scoreCandidates[500];
+    remainingCandidates.delete(word);
+    progress.value = allCandidates.size - remainingCandidates.size;
+    await setTimeout()
 
     const nextScoreMap: Record<number, WordTree> = {};
-    result[Number(score)] = {
+    scoreMap[Number(score)] = {
       word,
       scoreMap: nextScoreMap,
     };
-    pending.push([nextScoreMap, scoreMap]);
+    pending.push([nextScoreMap, scoreCandidates]);
   }
-} while (pending.length);
+}
 
 writeFileSync(
   joinPath(import.meta.dirname || "", ".word500.map.json"),

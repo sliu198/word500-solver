@@ -2,2131 +2,3862 @@
   "word": "STARE",
   "scoreMap": {
     "5": {
-      "word": "POUCH",
+      "word": "GOLDY",
       "scoreMap": {
         "5": {
-          "word": "DINGY",
-          "scoreMap": {
-            "23": "BLINK",
-            "32": {
-              "word": "BLIND",
-              "scoreMap": {
-                "302": "FLING"
-              }
-            },
-            "41": "LYING",
-            "203": "MILKY",
-            "212": "VINYL",
-            "302": "DIMLY",
-            "311": "WINDY"
-          }
-        },
-        "14": {
-          "word": "BLIMP",
-          "scoreMap": {
-            "5": "FUNKY",
-            "14": "DINGO",
-            "23": "LINGO",
-            "32": "WIMPY",
-            "41": {
-              "word": "IMPLY",
-              "scoreMap": {
-                "32": "LIMBO"
-              }
-            },
-            "104": {
-              "word": "UNIFY",
-              "scoreMap": {
-                "212": "WHINY"
-              }
-            },
-            "113": {
-              "word": "BINGO",
-              "scoreMap": {
-                "23": "GUILD",
-                "104": "BULKY"
-              }
-            },
-            "203": {
-              "word": "CLING",
-              "scoreMap": {
-                "113": "BLOWN",
-                "401": "CLINK"
-              }
-            },
-            "212": "BUILD",
-            "311": "CLIMB"
-          }
-        },
-        "23": {
-          "word": "LYRIC",
-          "scoreMap": {
-            "5": "GUMBO",
-            "14": "DUMPY",
-            "23": "CLOWN",
-            "32": "CHILD",
-            "104": "HUMID",
-            "113": "LUMPY",
-            "122": "LUCKY",
-            "212": "LUCID"
-          }
-        },
-        "32": {
-          "word": "CLOUD",
-          "scoreMap": {
-            "113": "OPIUM",
-            "212": "GHOUL"
-          }
-        },
-        "104": {
-          "word": "FLICK",
-          "scoreMap": {
-            "14": "GODLY",
-            "23": "PINKY",
-            "212": "FLUID",
-            "302": "FLUNK"
-          }
-        },
-        "113": {
-          "word": "FOCUS",
-          "scoreMap": {
-            "5": "NYMPH",
-            "14": "PUDGY",
-            "23": "BLOCK",
-            "104": "PICKY",
-            "113": "LOGIC",
-            "122": "FLOCK",
-            "203": "MOGUL"
-          }
-        },
-        "122": {
-          "word": "CLUMP",
-          "scoreMap": {
-            "14": "PHONY",
-            "32": "PUBIC",
-            "203": "CHUNK"
-          }
-        },
-        "131": "CHUMP",
-        "203": {
-          "word": "BOWEL",
-          "scoreMap": {
-            "5": "FINCH",
-            "14": "PLUNK",
-            "23": "PLUMB",
-            "104": {
-              "word": "FOUND",
-              "scoreMap": {
-                "302": "YOUNG",
-                "401": "MOUND"
-              }
-            },
-            "113": "WOUND",
-            "122": "WOULD",
-            "203": "BOUND"
-          }
-        },
-        "212": {
-          "word": "MULCH",
-          "scoreMap": {
-            "23": "HOUND",
-            "32": "COULD",
-            "302": "BUNCH",
-            "311": "LUNCH",
-            "401": "MUNCH"
-          }
-        },
-        "302": {
-          "word": "PINCH",
-          "scoreMap": {
-            "104": "DOUGH",
-            "113": "POUND",
-            "203": "PLUCK"
-          }
-        },
-        "311": {
-          "word": "COUGH",
-          "scoreMap": {
-            "122": "PUNCH"
-          }
-        },
-        "401": "VOUCH"
-      }
-    },
-    "14": {
-      "word": "CRONY",
-      "scoreMap": {
-        "5": {
-          "word": "FLUID",
+          "word": "HUNCH",
           "scoreMap": {
             "14": {
-              "word": "MIGHT",
+              "word": "MIMIC",
               "scoreMap": {
-                "23": "WHISK",
-                "32": "WEIGH"
+                "14": "WHIFF",
+                "302": "CIVIC"
               }
             },
-            "23": {
-              "word": "LIGHT",
-              "scoreMap": {
-                "14": "DEBUG",
-                "122": "WIDTH"
-              }
-            },
-            "32": {
-              "word": "AWFUL",
-              "scoreMap": {
-                "23": "GUILT"
-              }
-            },
-            "104": {
-              "word": "THUMB",
-              "scoreMap": {
-                "401": "THUMP"
-              }
-            },
+            "23": "UNZIP",
+            "32": "CHUMP",
+            "41": "CHUNK",
+            "104": "MINIM",
             "113": {
-              "word": "ALBUM",
+              "word": "PUBIC",
               "scoreMap": {
-                "5": "FIGHT",
-                "32": "LAUGH"
+                "23": "CHICK",
+                "401": "CUBIC"
               }
             },
-            "122": {
-              "word": "DEVIL",
-              "scoreMap": {
-                "23": "FILTH",
-                "41": "WIELD",
-                "113": "TULIP"
-              }
-            },
-            "203": {
-              "word": "BLUSH",
-              "scoreMap": {
-                "5": "VAPID",
-                "401": "PLUSH"
-              }
-            },
-            "212": {
-              "word": "PLIED",
-              "scoreMap": {
-                "122": "VALID"
-              }
-            },
-            "221": "FIELD",
-            "302": "FLUSH"
-          }
-        },
-        "14": {
-          "word": "MODEL",
-          "scoreMap": {
-            "5": {
-              "word": "PITCH",
-              "scoreMap": {
-                "23": "UNFIT",
-                "32": "INPUT",
-                "122": "NIGHT",
-                "131": "THICK",
-                "302": "BUTCH",
-                "401": "WITCH"
-              }
-            },
-            "14": {
-              "word": "BEGIN",
-              "scoreMap": {
-                "14": {
-                  "word": "DITCH",
-                  "scoreMap": {
-                    "113": "PIVOT"
-                  }
-                },
-                "104": {
-                  "word": "HUMAN",
-                  "scoreMap": {
-                    "113": "OUGHT"
-                  }
-                },
-                "113": "UNLIT",
-                "122": "ALIGN",
-                "131": "NEIGH",
-                "212": "BIGOT",
-                "221": "FEIGN"
-              }
-            },
-            "23": {
-              "word": "ADEPT",
-              "scoreMap": {
-                "14": "BELCH",
-                "23": "DEIGN",
-                "104": "FLECK",
-                "113": "PILOT"
-              }
-            },
-            "32": {
-              "word": "BELOW",
-              "scoreMap": {
-                "23": "YIELD",
-                "104": "DENIM",
-                "230": "ELBOW"
-              }
-            },
-            "104": {
-              "word": "ANVIL",
-              "scoreMap": {
-                "5": "TOUGH",
-                "23": "MINUS",
-                "104": "MUSIC",
-                "113": "MAGIC",
-                "131": "FINAL",
-                "302": "UNTIL"
-              }
-            },
-            "113": {
-              "word": "DOWRY",
-              "scoreMap": {
-                "5": "LIKEN",
-                "14": "UNFED",
-                "23": "AUDIO",
-                "104": "POLKA",
-                "113": "UNWED",
-                "203": "DOUBT"
-              }
-            },
-            "122": "DOGMA",
-            "203": {
-              "word": "MOTIF",
-              "scoreMap": {
-                "14": "WIDEN",
-                "212": "MOUTH"
-              }
-            },
-            "212": {
-              "word": "MEDIC",
-              "scoreMap": {
-                "122": "VIDEO"
-              }
-            },
-            "221": "GOLEM",
+            "122": "CHUCK",
+            "203": "QUICK",
+            "212": "WHICH",
             "302": {
-              "word": "BOWEL",
+              "word": "CAFES",
               "scoreMap": {
-                "401": "VOWEL"
+                "5": "HUMPH",
+                "14": "PINCH",
+                "23": "FINCH",
+                "104": "CINCH"
               }
             },
-            "401": "MODAL"
-          }
-        },
-        "23": {
-          "word": "WOMAN",
-          "scoreMap": {
-            "5": {
-              "word": "BIRCH",
+            "401": {
+              "word": "BALMS",
               "scoreMap": {
-                "302": "LURCH"
+                "5": "PUNCH",
+                "14": "MUNCH",
+                "104": "BUNCH"
               }
-            },
-            "14": {
-              "word": "AUDIO",
-              "scoreMap": {
-                "5": "BENCH",
-                "23": "VIGOR",
-                "104": "GECKO",
-                "113": "OPTIC",
-                "122": "DISCO",
-                "203": "TUNIC"
-              }
-            },
-            "23": {
-              "word": "HAVOC",
-              "scoreMap": {
-                "203": "PANIC"
-              }
-            },
-            "32": {
-              "word": "MACHO",
-              "scoreMap": {
-                "14": "ENDOW",
-                "23": "VENOM",
-                "212": "MANIC"
-              }
-            },
-            "41": "MANGO",
-            "104": {
-              "word": "BOTCH",
-              "scoreMap": {
-                "113": {
-                  "word": "FOCUS",
-                  "scoreMap": {
-                    "401": "LOCUS"
-                  }
-                },
-                "122": "TOPIC",
-                "203": "ROUGH",
-                "212": "YOUTH",
-                "311": "TOUCH"
-              }
-            },
-            "113": {
-              "word": "BONUS",
-              "scoreMap": {
-                "23": {
-                  "word": "FELON",
-                  "scoreMap": {
-                    "104": "HUMOR"
-                  }
-                },
-                "104": "MORPH",
-                "113": "NOVEL",
-                "131": "BISON",
-                "203": "FORUM",
-                "302": "DONUT"
-              }
-            },
-            "122": {
-              "word": "MELON",
-              "scoreMap": {
-                "113": "MOCHA",
-                "122": "MONTH"
-              }
-            },
-            "203": {
-              "word": "FOCAL",
-              "scoreMap": {
-                "113": "WORLD",
-                "401": "VOCAL"
-              }
-            },
-            "212": {
-              "word": "DEMON",
-              "scoreMap": {
-                "401": "LEMON"
-              }
-            },
-            "221": "WAGON",
-            "302": "WOVEN",
-            "311": "NOMAD",
-            "401": "WOMEN"
-          }
-        },
-        "32": {
-          "word": "BUNCH",
-          "scoreMap": {
-            "14": "LYRIC",
-            "23": "ROBIN",
-            "32": "INCUR",
-            "104": "MINOR",
-            "113": "TONIC",
-            "122": "BACON",
-            "203": "PORCH",
-            "212": "NOTCH"
-          }
-        },
-        "104": {
-          "word": "BADLY",
-          "scoreMap": {
-            "5": {
-              "word": "THING",
-              "scoreMap": {
-                "203": "CHIEF",
-                "401": "THINK"
-              }
-            },
-            "14": {
-              "word": "FIEND",
-              "scoreMap": {
-                "104": "FLOUT",
-                "113": "GLINT",
-                "212": "FLINT"
-              }
-            },
-            "23": {
-              "word": "AFOUL",
-              "scoreMap": {
-                "203": "AVOID"
-              }
-            },
-            "32": "ALOUD",
-            "104": {
-              "word": "FISHY",
-              "scoreMap": {
-                "14": "BEING",
-                "203": "MUSKY",
-                "212": "HUSKY",
-                "302": {
-                  "word": "MUSHY",
-                  "scoreMap": {
-                    "401": "PUSHY"
-                  }
-                }
-              }
-            },
-            "113": {
-              "word": "BLUNT",
-              "scoreMap": {
-                "5": "EDIFY",
-                "14": "VIOLA"
-              }
-            },
-            "122": "BLEND",
-            "203": {
-              "word": "BUSHY",
-              "scoreMap": {
-                "14": "CAULK",
-                "104": "GAWKY"
-              }
-            },
-            "212": "GAUDY",
-            "311": "DAILY",
-            "401": "MADLY"
-          }
-        },
-        "113": {
-          "word": "CURLY",
-          "scoreMap": {
-            "5": "POINT",
-            "14": {
-              "word": "EPOCH",
-              "scoreMap": {
-                "14": "MOUNT"
-              }
-            },
-            "23": "BRICK",
-            "32": "FLOUR",
-            "104": {
-              "word": "CABIN",
-              "scoreMap": {
-                "5": "DOPEY",
-                "23": "MINTY",
-                "113": "HANDY"
-              }
-            },
-            "113": {
-              "word": "UNITY",
-              "scoreMap": {
-                "104": "WACKY",
-                "113": "DICEY",
-                "203": "LOFTY",
-                "212": "INLAY"
-              }
-            },
-            "122": "LOUSY",
-            "203": {
-              "word": "MANLY",
-              "scoreMap": {
-                "212": "NEWLY"
-              }
-            },
-            "212": "RUGBY",
-            "302": {
-              "word": "GIRLY",
-              "scoreMap": {
-                "203": "MURKY"
-              }
-            },
-            "401": "BURLY"
-          }
-        },
-        "122": {
-          "word": "COWER",
-          "scoreMap": {
-            "14": "FANCY",
-            "23": "ENVOY",
-            "32": "DECOY",
-            "104": "NOISY",
-            "113": "ROUND",
-            "122": "WORDY",
-            "203": {
-              "word": "HONEY",
-              "scoreMap": {
-                "401": "MONEY"
-              }
-            },
-            "212": "ROWDY"
-          }
-        },
-        "131": "ROCKY",
-        "203": {
-          "word": "GRAIN",
-          "scoreMap": {
-            "5": {
-              "word": "CLOTH",
-              "scoreMap": {
-                "311": "CLOUT"
-              }
-            },
-            "14": "CLOAK",
-            "32": {
-              "word": "ALONG",
-              "scoreMap": {
-                "401": "AMONG"
-              }
-            },
-            "104": {
-              "word": "CRUMB",
-              "scoreMap": {
-                "104": "PROWL",
-                "113": "PROUD"
-              }
-            },
-            "113": {
-              "word": "CRIMP",
-              "scoreMap": {
-                "104": "DRUNK",
-                "212": "PRIVY"
-              }
-            },
-            "122": {
-              "word": "BRINK",
-              "scoreMap": {
-                "401": "DRINK"
-              }
-            },
-            "131": {
-              "word": "BRING",
-              "scoreMap": {
-                "401": "WRING"
-              }
-            },
-            "203": {
-              "word": "GROUP",
-              "scoreMap": {
-                "302": "GROWL"
-              }
-            },
-            "212": "GRIMY",
-            "221": "GRIND"
-          }
-        },
-        "212": {
-          "word": "GRIND",
-          "scoreMap": {
-            "5": "COVEY",
-            "14": {
-              "word": "CURLY",
-              "scoreMap": {
-                "401": "CURVY"
-              }
-            },
-            "23": {
-              "word": "CANDY",
-              "scoreMap": {
-                "104": "CHOIR"
-              }
-            },
-            "104": {
-              "word": "COUNT",
-              "scoreMap": {
-                "23": "FROCK"
-              }
-            },
-            "113": {
-              "word": "BROWN",
-              "scoreMap": {
-                "401": "FROWN"
-              }
-            },
-            "122": "DROWN",
-            "212": "GROWN",
-            "221": "GROIN"
-          }
-        },
-        "302": {
-          "word": "AGONY",
-          "scoreMap": {
-            "104": "CROWD",
-            "212": "WRONG",
-            "302": "EBONY"
-          }
-        },
-        "311": "CROWN",
-        "320": "CORNY",
-        "401": "IRONY"
-      }
-    },
-    "23": {
-      "word": "DINER",
-      "scoreMap": {
-        "5": {
-          "word": "BACON",
-          "scoreMap": {
-            "5": {
-              "word": "GUSTY",
-              "scoreMap": {
-                "401": "MUSTY"
-              }
-            },
-            "14": {
-              "word": "GHOST",
-              "scoreMap": {
-                "131": "GUSTO"
-              }
-            },
-            "23": {
-              "word": "FLOAT",
-              "scoreMap": {
-                "401": "GLOAT"
-              }
-            },
-            "32": "ABOUT",
-            "104": {
-              "word": "FAULT",
-              "scoreMap": {
-                "212": "GAMUT",
-                "401": "VAULT"
-              }
-            },
-            "113": {
-              "word": "LAPSE",
-              "scoreMap": {
-                "104": {
-                  "word": "MATCH",
-                  "scoreMap": {
-                    "401": "WATCH"
-                  }
-                },
-                "113": "PATCH",
-                "203": "LATCH"
-              }
-            },
-            "122": "BLOAT",
-            "203": {
-              "word": "TACKY",
-              "scoreMap": {
-                "221": "YACHT"
-              }
-            },
-            "212": "BATCH"
+            }
           }
         },
         "14": {
-          "word": "TORCH",
+          "word": "CLINK",
           "scoreMap": {
             "5": {
-              "word": "BASIL",
+              "word": "WHOOP",
               "scoreMap": {
-                "23": "GLEAM",
-                "104": "PESKY",
-                "122": "BLEAK"
+                "14": "JUMBO",
+                "104": "BUXOM"
               }
             },
             "14": {
-              "word": "ADORN",
+              "word": "VIVID",
               "scoreMap": {
-                "5": "EMPTY",
-                "14": "BASIC",
-                "23": "OMEGA",
-                "122": "MASON",
-                "203": "ADULT"
+                "5": "NYMPH",
+                "104": "HIPPO",
+                "203": "HUMID"
               }
             },
             "23": {
-              "word": "BIGOT",
+              "word": "PUPIL",
               "scoreMap": {
-                "5": "CHEAP",
-                "14": "HEFTY",
-                "32": "PATIO",
-                "104": "HAUNT",
-                "113": "ADOPT",
-                "122": "HABIT",
-                "212": "BATON"
+                "5": "KNOWN",
+                "14": "INBOX",
+                "113": "UNDID"
               }
             },
-            "32": {
-              "word": "CROAK",
-              "scoreMap": {
-                "203": "CRYPT"
-              }
-            },
+            "32": "LUNCH",
             "104": {
-              "word": "FLESH",
+              "word": "PLUMB",
               "scoreMap": {
-                "5": "TAWNY",
-                "14": "MURAL"
+                "32": "OPIUM",
+                "203": "FLUFF",
+                "212": "BLUFF",
+                "401": "PLUMP"
               }
             },
             "113": {
-              "word": "MOIST",
+              "word": "UNION",
               "scoreMap": {
-                "14": "TRULY",
-                "23": "TALON",
-                "32": "TEMPO",
-                "104": {
-                  "word": "BRUSH",
-                  "scoreMap": {
-                    "14": "ROYAL"
-                  }
-                },
-                "113": "FAITH",
-                "221": "POSIT",
-                "401": "FOIST"
+                "113": "QUILL",
+                "401": "ONION"
               }
             },
             "122": {
-              "word": "CARGO",
+              "word": "KNOCK",
               "scoreMap": {
-                "14": "HOIST",
-                "113": "CRUSH",
-                "311": "CAROL"
-              }
-            },
-            "131": {
-              "word": "BROTH",
-              "scoreMap": {
-                "401": "FROTH"
+                "14": "CIVIL",
+                "23": "CYNIC"
               }
             },
             "203": {
-              "word": "MORAL",
+              "word": "CLUMP",
               "scoreMap": {
-                "203": "TODAY",
-                "302": "FORAY"
+                "104": "CHOCK",
+                "302": "BLIMP"
               }
             },
             "212": {
-              "word": "CORAL",
+              "word": "ICING",
               "scoreMap": {
-                "14": "FETCH",
-                "23": "TRUCK",
-                "113": "TURBO",
-                "203": "FORTY"
+                "14": "PLUCK",
+                "113": "CHILL",
+                "122": "CHILI"
               }
             },
-            "221": {
-              "word": "THROB",
+            "302": {
+              "word": "FLUNK",
               "scoreMap": {
-                "401": "THROW"
+                "104": "CLIMB",
+                "113": "CLIFF",
+                "302": "CLUCK",
+                "401": "PLUNK"
               }
             },
-            "302": "MARCH",
-            "311": {
-              "word": "FORTH",
+            "311": "FLICK",
+            "401": {
+              "word": "CLICK",
               "scoreMap": {
-                "401": "WORTH"
+                "302": "BLINK"
               }
             }
           }
         },
         "23": {
-          "word": "BRUNT",
+          "word": "BLUID",
           "scoreMap": {
-            "5": {
-              "word": "MEDAL",
-              "scoreMap": {
-                "131": "PLEAD",
-                "401": "PEDAL"
-              }
-            },
-            "14": {
-              "word": "REPLY",
-              "scoreMap": {
-                "14": "OCEAN",
-                "23": {
-                  "word": "CLEAN",
-                  "scoreMap": {
-                    "401": "GLEAN"
-                  }
-                },
-                "104": "VEGAN",
-                "113": "HARDY",
-                "122": "PERCH",
-                "212": "MERCY",
-                "221": "PERKY"
-              }
-            },
+            "14": "KNOLL",
             "23": {
-              "word": "ANTIC",
+              "word": "WIDOW",
               "scoreMap": {
-                "113": "APRON"
+                "104": "VINYL",
+                "122": "IDIOM"
               }
             },
-            "32": "NORTH",
+            "32": "LIMBO",
             "104": {
-              "word": "SKIMP",
+              "word": "FLOCK",
               "scoreMap": {
-                "5": "HYENA",
-                "14": "WRECK",
-                "23": "ADMIT",
-                "104": "EVICT",
-                "122": "FRISK",
-                "131": "PRISM",
-                "212": "CRISP"
+                "212": "CLOWN",
+                "401": "CLOCK"
               }
             },
             "113": {
-              "word": "GROAN",
+              "word": "ACING",
               "scoreMap": {
-                "14": "AUDIT",
-                "104": "TRICK",
-                "113": "BASIN",
-                "320": "ORGAN"
+                "23": "VIGIL",
+                "32": "BINGO",
+                "302": "FLING",
+                "311": "CLING"
               }
             },
-            "122": "BARON",
-            "131": "URBAN",
+            "122": "CHILD",
             "203": {
-              "word": "FAINT",
+              "word": "ABLOW",
               "scoreMap": {
-                "14": "BROAD",
-                "104": "BRISK",
-                "401": "PAINT"
-              }
-            },
-            "212": "ORBIT",
-            "302": {
-              "word": "FRONT",
-              "scoreMap": {
-                "302": "FRUIT"
-              }
-            },
-            "311": "TRUNK",
-            "401": "GRUNT"
-          }
-        },
-        "32": {
-          "word": "RAPID",
-          "scoreMap": {
-            "14": "HERON",
-            "23": {
-              "word": "EDICT",
-              "scoreMap": {
-                "122": "INEPT"
-              }
-            },
-            "32": {
-              "word": "IDEAL",
-              "scoreMap": {
-                "14": "PRINT"
-              }
-            },
-            "113": {
-              "word": "AMEND",
-              "scoreMap": {
-                "221": "KNEAD"
-              }
-            },
-            "122": {
-              "word": "MEDIA",
-              "scoreMap": {
-                "203": "PERIL"
-              }
-            },
-            "203": "RELIC",
-            "212": "RAINY",
-            "221": "ACRID",
-            "311": "RADIO",
-            "401": "RABID"
-          }
-        },
-        "41": "REIGN",
-        "104": {
-          "word": "MORAL",
-          "scoreMap": {
-            "5": {
-              "word": "DUSTY",
-              "scoreMap": {
-                "122": "TIPSY"
-              }
-            },
-            "14": {
-              "word": "CAGEY",
-              "scoreMap": {
-                "212": "TANGY"
-              }
-            },
-            "23": "TANGO",
-            "32": {
-              "word": "FAVOR",
-              "scoreMap": {
-                "113": "CAMEO",
-                "212": "ABHOR",
-                "311": "VAPOR"
-              }
-            },
-            "41": {
-              "word": "LABOR",
-              "scoreMap": {
-                "311": "VALOR"
-              }
-            },
-            "104": "COVET",
-            "113": {
-              "word": "BAGEL",
-              "scoreMap": {
-                "104": "COMET",
-                "311": "GAVEL"
-              }
-            },
-            "122": "CAMEL",
-            "131": "MAYOR",
-            "203": {
-              "word": "HOTEL",
-              "scoreMap": {
-                "203": "VITAL",
-                "311": "TOWEL"
-              }
-            },
-            "221": "POLAR",
-            "302": "MOTEL",
-            "320": "MOLAR"
-          }
-        },
-        "113": {
-          "word": "LADEN",
-          "scoreMap": {
-            "5": {
-              "word": "BIRTH",
-              "scoreMap": {
-                "113": "RISKY",
-                "131": "RIGHT",
-                "203": "VIRUS",
-                "401": {
-                  "word": "GIRTH",
-                  "scoreMap": {
-                    "401": "MIRTH"
-                  }
-                }
-              }
-            },
-            "14": {
-              "word": "EIGHT",
-              "scoreMap": {
-                "14": "FEMUR",
-                "122": "PIETY"
-              }
-            },
-            "23": {
-              "word": "BARON",
-              "scoreMap": {
-                "5": "DEPTH",
-                "14": "DEBUT",
-                "23": "RIVAL",
-                "104": "DEPOT",
-                "113": "VIRAL"
-              }
-            },
-            "32": "DECAY",
-            "41": {
-              "word": "DECAL",
-              "scoreMap": {
-                "302": "PENAL",
-                "311": "DELAY"
-              }
-            },
-            "104": {
-              "word": "MIDST",
-              "scoreMap": {
-                "23": "THIEF"
-              }
-            },
-            "113": {
-              "word": "CRUEL",
-              "scoreMap": {
-                "5": "DAISY",
-                "23": "RANCH",
-                "41": "LEMUR"
-              }
-            },
-            "122": {
-              "word": "DAUNT",
-              "scoreMap": {
-                "32": "TIDAL"
-              }
-            },
-            "131": "ANGEL",
-            "203": {
-              "word": "OFTEN",
-              "scoreMap": {
-                "221": "TOKEN"
-              }
-            },
-            "221": "NAVEL",
-            "302": "HAVEN"
-          }
-        },
-        "122": {
-          "word": "ALIEN",
-          "scoreMap": {
-            "14": "DERBY",
-            "23": "DEBIT",
-            "104": "DRIFT",
-            "113": "DEITY",
-            "131": "INLET",
-            "203": {
-              "word": "BRIEF",
-              "scoreMap": {
-                "401": "GRIEF"
-              }
-            },
-            "221": "LADEN"
-          }
-        },
-        "131": "NADIR",
-        "203": {
-          "word": "VOWEL",
-          "scoreMap": {
-            "5": "CIGAR",
-            "14": {
-              "word": "LUNAR",
-              "scoreMap": {
-                "212": "MANOR"
-              }
-            },
-            "104": "BUYER",
-            "113": {
-              "word": "DUVET",
-              "scoreMap": {
-                "14": "VISOR",
-                "113": "ULCER",
-                "203": "FILET"
-              }
-            },
-            "203": {
-              "word": "FOYER",
-              "scoreMap": {
-                "104": "PANEL",
-                "302": "POKER"
+                "14": "OVOID",
+                "32": "BLOCK",
+                "41": "BLOWN",
+                "122": "BLOOM"
               }
             },
             "212": {
-              "word": "CAMEL",
+              "word": "LIVID",
               "scoreMap": {
-                "104": "HOVER",
-                "113": "MOVER",
-                "203": "COVER"
+                "401": "LIPID"
               }
             },
-            "221": "LOVER",
+            "221": "LUCID",
+            "230": "BUILD",
+            "311": "BLIND",
+            "401": "FLUID"
+          }
+        },
+        "32": {
+          "word": "BOUND",
+          "scoreMap": {
+            "14": "IDYLL",
+            "23": "LINGO",
+            "32": "DINGO",
+            "104": "LYING",
+            "113": "FLOOD",
+            "122": "CLOUD",
+            "212": "BLOOD"
+          }
+        },
+        "104": {
+          "word": "NIFFY",
+          "scoreMap": {
+            "5": {
+              "word": "CHOPS",
+              "scoreMap": {
+                "23": "MULCH",
+                "32": "VOUCH",
+                "41": "POUCH",
+                "122": "COUCH",
+                "131": "POOCH"
+              }
+            },
+            "14": {
+              "word": "CONCH",
+              "scoreMap": {
+                "212": "COMIC"
+              }
+            },
+            "23": {
+              "word": "IONIC",
+              "scoreMap": {
+                "401": "CONIC"
+              }
+            },
+            "104": {
+              "word": "PUPPY",
+              "scoreMap": {
+                "203": "MUMMY",
+                "302": "JUMPY"
+              }
+            },
+            "113": {
+              "word": "ABACA",
+              "scoreMap": {
+                "5": "FUZZY",
+                "14": "BUNNY",
+                "104": "JUICY"
+              }
+            },
+            "122": {
+              "word": "WHINY",
+              "scoreMap": {
+                "113": "FUNKY",
+                "203": "FUNNY"
+              }
+            },
+            "203": {
+              "word": "WIMPY",
+              "scoreMap": {
+                "212": "PICKY",
+                "302": "HIPPY"
+              }
+            },
+            "212": {
+              "word": "PINKY",
+              "scoreMap": {
+                "203": "FIZZY",
+                "401": "KINKY"
+              }
+            },
+            "221": "UNIFY",
             "302": {
-              "word": "CAMEL",
+              "word": "PUFFY",
               "scoreMap": {
-                "104": "POWER",
-                "113": "MOWER",
-                "203": "COWER"
+                "104": "NINNY"
               }
             },
-            "311": "LOWER"
+            "401": "JIFFY"
+          }
+        },
+        "113": {
+          "word": "LUMPY",
+          "scoreMap": {
+            "5": "BONGO",
+            "14": {
+              "word": "BACHA",
+              "scoreMap": {
+                "5": {
+                  "word": "WOUND",
+                  "scoreMap": {
+                    "401": "FOUND"
+                  }
+                },
+                "14": "HOUND",
+                "23": "COUGH",
+                "104": "BOUND"
+              }
+            },
+            "23": {
+              "word": "POUND",
+              "scoreMap": {
+                "401": "MOUND"
+              }
+            },
+            "104": "DIZZY",
+            "113": {
+              "word": "PIGGY",
+              "scoreMap": {
+                "113": "ICILY",
+                "203": "PHONY"
+              }
+            },
+            "122": "PYGMY",
+            "131": "IMPLY",
+            "203": {
+              "word": "GUMBO",
+              "scoreMap": {
+                "122": "BUGGY"
+              }
+            },
+            "302": {
+              "word": "LUCKY",
+              "scoreMap": {
+                "203": "DUMMY"
+              }
+            },
+            "401": "DUMPY"
+          }
+        },
+        "122": {
+          "word": "COUGH",
+          "scoreMap": {
+            "5": "DIMLY",
+            "14": "NYLON",
+            "23": {
+              "word": "IGLOO",
+              "scoreMap": {
+                "32": "GUILD",
+                "131": "GLOOM"
+              }
+            },
+            "41": "GHOUL",
+            "104": "DINGY",
+            "113": "PUDGY",
+            "122": {
+              "word": "MOGUL",
+              "scoreMap": {
+                "212": "LOGIC"
+              }
+            },
+            "203": "WOULD",
+            "212": "YOUNG",
+            "302": "COULD",
+            "401": "DOUGH"
+          }
+        },
+        "131": "ODDLY",
+        "203": {
+          "word": "BLUDY",
+          "scoreMap": {
+            "5": "GOING",
+            "14": {
+              "word": "FOLIO",
+              "scoreMap": {
+                "212": "COLON"
+              }
+            },
+            "104": {
+              "word": "WOOZY",
+              "scoreMap": {
+                "113": "CONDO",
+                "203": "POPPY"
+              }
+            },
+            "113": {
+              "word": "FILUM",
+              "scoreMap": {
+                "5": "HOBBY",
+                "14": "GUPPY",
+                "23": "GUMMY",
+                "203": {
+                  "word": "WILLY",
+                  "scoreMap": {
+                    "401": "HILLY"
+                  }
+                },
+                "212": "MILKY",
+                "302": "FILLY"
+              }
+            },
+            "122": {
+              "word": "PULPY",
+              "scoreMap": {
+                "302": "FULLY"
+              }
+            },
+            "203": {
+              "word": "BOOZY",
+              "scoreMap": {
+                "104": "WINDY",
+                "302": "BOBBY",
+                "401": "BOOBY"
+              }
+            },
+            "212": {
+              "word": "MUDDY",
+              "scoreMap": {
+                "104": "BILLY"
+              }
+            },
+            "221": {
+              "word": "BULLY",
+              "scoreMap": {
+                "401": "BULKY"
+              }
+            },
+            "302": "BIDDY",
+            "311": "BUDDY"
           }
         },
         "212": {
-          "word": "OLDER",
+          "word": "PULLI",
           "scoreMap": {
-            "23": "DIRTY",
-            "122": "DEMUR",
-            "131": "DECOR",
-            "302": "PLIER"
+            "5": "FOGGY",
+            "14": "LOBBY",
+            "23": "LOOPY",
+            "104": {
+              "word": "WOOLY",
+              "scoreMap": {
+                "302": "COYLY"
+              }
+            },
+            "113": "LOWLY",
+            "203": "POLYP",
+            "212": "DILLY",
+            "302": "DULLY"
           }
         },
-        "221": {
-          "word": "INFER",
-          "scoreMap": {
-            "302": "UNDER"
-          }
-        },
+        "221": "DODGY",
         "302": {
-          "word": "VIGOR",
+          "word": "FLOSH",
           "scoreMap": {
-            "113": "OWNER",
-            "122": "GONER",
-            "203": "FILER",
-            "212": "LIVER",
-            "221": "GIVER",
-            "302": "VIPER"
+            "5": "GIDDY",
+            "14": {
+              "word": "GULLY",
+              "scoreMap": {
+                "104": "DOWDY"
+              }
+            },
+            "23": "JOLLY",
+            "32": "HOLLY",
+            "104": {
+              "word": "WOODY",
+              "scoreMap": {
+                "401": "MOODY"
+              }
+            },
+            "113": "GOOFY",
+            "122": "FOLLY"
           }
         },
-        "311": {
-          "word": "CIDER",
-          "scoreMap": {
-            "401": "WIDER"
-          }
-        },
+        "311": "DOLLY",
+        "320": "GODLY",
         "401": {
-          "word": "FELON",
+          "word": "GOODY",
           "scoreMap": {
-            "14": "DIVER",
-            "23": "MINER",
-            "32": "LINER",
-            "122": "FINER"
+            "302": "GOLLY"
           }
         }
       }
     },
-    "32": {
-      "word": "PALER",
+    "14": {
+      "word": "DRONY",
       "scoreMap": {
-        "14": {
-          "word": "GRUNT",
+        "5": {
+          "word": "MITCH",
           "scoreMap": {
-            "23": "FETUS",
-            "32": "RUSTY",
-            "104": {
-              "word": "CHEST",
+            "5": {
+              "word": "BEZEL",
               "scoreMap": {
-                "221": "HEIST"
+                "5": "KAPPA",
+                "14": "LUPUS",
+                "104": {
+                  "word": "PUPAL",
+                  "scoreMap": {
+                    "122": "AWFUL",
+                    "401": "PAPAL"
+                  }
+                },
+                "113": "QUELL",
+                "212": "EXPEL",
+                "221": "BLEEP",
+                "302": {
+                  "word": "LEVEL",
+                  "scoreMap": {
+                    "302": "JEWEL"
+                  }
+                },
+                "401": "BEVEL"
+              }
+            },
+            "14": {
+              "word": "JACAL",
+              "scoreMap": {
+                "5": "EQUIP",
+                "14": {
+                  "word": "BLISS",
+                  "scoreMap": {
+                    "14": "AFFIX"
+                  }
+                },
+                "23": {
+                  "word": "ALIBI",
+                  "scoreMap": {
+                    "212": "ALBUM"
+                  }
+                },
+                "32": "ALPHA",
+                "104": "WHEEL",
+                "113": "GAMMA",
+                "122": "CAULK",
+                "203": "EXCEL",
+                "212": "AXIAL",
+                "311": "CABAL"
+              }
+            },
+            "23": {
+              "word": "TULIP",
+              "scoreMap": {
+                "5": "CHEEK",
+                "14": "WHISK",
+                "23": "ILIAC",
+                "32": "BLITZ",
+                "104": "HUMUS",
+                "113": "TWIXT",
+                "131": {
+                  "word": "QUILT",
+                  "scoreMap": {
+                    "401": "GUILT"
+                  }
+                },
+                "203": "HELIX"
+              }
+            },
+            "32": {
+              "word": "THUMP",
+              "scoreMap": {
+                "104": "CHIEF",
+                "401": "THUMB"
+              }
+            },
+            "104": {
+              "word": "PLESH",
+              "scoreMap": {
+                "5": {
+                  "word": "MAMMA",
+                  "scoreMap": {
+                    "401": "MAGMA"
+                  }
+                },
+                "14": "VILLA",
+                "23": "LIBEL",
+                "104": "PIZZA",
+                "113": "LAUGH",
+                "122": "PIXEL",
+                "203": "FLECK",
+                "302": {
+                  "word": "FLUSH",
+                  "scoreMap": {
+                    "401": "BLUSH"
+                  }
+                },
+                "401": "PLUSH"
               }
             },
             "113": {
-              "word": "FIRST",
+              "word": "MAXIM",
               "scoreMap": {
-                "302": "WORST"
+                "5": "CHECK",
+                "14": "WEIGH",
+                "23": "LILAC",
+                "104": "MUCUS",
+                "203": "MACAW",
+                "302": "MAFIA"
               }
             },
             "122": {
-              "word": "ANGST",
+              "word": "FILMS",
               "scoreMap": {
-                "203": "BURST"
+                "14": "THIGH",
+                "23": "MAGIC",
+                "32": "MUSIC",
+                "104": "TIGHT",
+                "113": "LIGHT",
+                "122": "LIMIT",
+                "203": "FIGHT"
               }
             },
+            "131": "THICK",
             "203": {
-              "word": "FROST",
+              "word": "LEECH",
               "scoreMap": {
-                "302": "WRIST"
+                "311": "BELCH",
+                "401": "BEECH"
               }
             },
-            "212": "GUEST",
-            "302": "CRUST"
-          }
-        },
-        "23": {
-          "word": "ADMIT",
-          "scoreMap": {
-            "5": "FRESH",
-            "14": "BERTH",
-            "23": {
-              "word": "TREND",
+            "212": {
+              "word": "FILTH",
               "scoreMap": {
-                "203": "TWEAK"
+                "401": "FIFTH"
               }
             },
-            "41": "TRIAD",
-            "104": {
-              "word": "ARSON",
-              "scoreMap": {
-                "14": "REBUT",
-                "212": "RESIN"
-              }
-            },
-            "113": {
-              "word": "CHEAT",
-              "scoreMap": {
-                "401": "WHEAT"
-              }
-            },
-            "203": "AGENT",
-            "212": "MERIT",
-            "302": "REMIT"
-          }
-        },
-        "32": {
-          "word": "WRECK",
-          "scoreMap": {
-            "14": {
-              "word": "FETAL",
-              "scoreMap": {
-                "401": "METAL"
-              }
-            },
-            "104": {
-              "word": "ADEPT",
-              "scoreMap": {
-                "23": "TRIAL"
-              }
-            },
-            "113": {
-              "word": "CLEAT",
-              "scoreMap": {
-                "113": "ERUPT"
-              }
-            },
-            "203": {
-              "word": "BREAD",
-              "scoreMap": {
-                "311": "DREAM"
-              }
-            },
-            "212": "CREAM",
+            "221": "MIGHT",
             "302": {
-              "word": "BREAK",
+              "word": "HUTCH",
               "scoreMap": {
-                "401": "FREAK"
+                "401": "BUTCH"
               }
             },
-            "311": "CREAK",
-            "401": "WREAK"
-          }
-        },
-        "41": {
-          "word": "RECAP",
-          "scoreMap": {
-            "212": "FERAL",
-            "302": "REGAL",
-            "311": "REPAY"
-          }
-        },
-        "104": {
-          "word": "BLUNT",
-          "scoreMap": {
-            "14": "HASTY",
-            "23": "NASTY",
-            "104": "WAIST",
-            "113": "ONSET",
-            "122": "UNSET"
-          }
-        },
-        "113": {
-          "word": "ACTOR",
-          "scoreMap": {
-            "14": "UPSET",
-            "23": {
-              "word": "MARSH",
-              "scoreMap": {
-                "14": "PESTO"
-              }
-            },
-            "32": "TARDY",
-            "104": "ASHEN",
-            "113": "THEIR",
-            "131": "RATIO",
-            "212": "TENOR"
-          }
-        },
-        "122": {
-          "word": "ALTAR",
-          "scoreMap": {
-            "32": "DELTA",
-            "203": "CEDAR"
-          }
-        },
-        "131": {
-          "word": "CLEAR",
-          "scoreMap": {
-            "41": "EARLY",
-            "122": "PETAL",
-            "131": "RELAY"
-          }
-        },
-        "203": {
-          "word": "TOWER",
-          "scoreMap": {
-            "14": "PASTY",
-            "113": {
-              "word": "CADET",
-              "scoreMap": {
-                "311": "FACET"
-              }
-            },
-            "203": "MISER",
-            "212": "WISER",
-            "221": "OUTER",
-            "302": {
-              "word": "TIGER",
-              "scoreMap": {
-                "401": "TIMER"
-              }
-            },
-            "311": "VOTER"
-          }
-        },
-        "212": {
-          "word": "AMBER",
-          "scoreMap": {
-            "23": "PARTY",
-            "113": "TAPIR",
-            "122": "RAVEN",
-            "131": "HAREM",
-            "203": "LOSER",
-            "302": "ANGER"
-          }
-        },
-        "302": {
-          "word": "WAGER",
-          "scoreMap": {
-            "203": {
-              "word": "POSER",
-              "scoreMap": {
-                "104": "VALET"
-              }
-            },
-            "302": {
-              "word": "BAKER",
-              "scoreMap": {
-                "401": "MAKER"
-              }
-            },
-            "311": "GAMER",
             "401": {
-              "word": "WAFER",
+              "word": "HALWA",
               "scoreMap": {
-                "401": "WAVER"
+                "14": "PITCH",
+                "23": "WITCH",
+                "104": "HITCH"
               }
             }
           }
         },
-        "311": {
-          "word": "LAGER",
+        "14": {
+          "word": "VINAL",
           "scoreMap": {
-            "302": "CAPER",
-            "401": "LAYER"
+            "5": {
+              "word": "COUTH",
+              "scoreMap": {
+                "5": "EMBED",
+                "23": "GECKO",
+                "32": "OUTGO",
+                "41": "OUGHT",
+                "104": "BOSOM",
+                "122": "FOCUS",
+                "203": "MOTTO",
+                "221": "BOTCH",
+                "311": "TOUGH",
+                "320": "TOUCH",
+                "401": "MOUTH"
+              }
+            },
+            "14": {
+              "word": "MOCHI",
+              "scoreMap": {
+                "5": {
+                  "word": "QUEEN",
+                  "scoreMap": {
+                    "203": "BLEED"
+                  }
+                },
+                "14": {
+                  "word": "ELBOW",
+                  "scoreMap": {
+                    "230": "BELOW"
+                  }
+                },
+                "23": {
+                  "word": "HELLO",
+                  "scoreMap": {
+                    "23": "LURCH",
+                    "401": "CELLO"
+                  }
+                },
+                "32": "OPTIC",
+                "104": "UNCUT",
+                "113": {
+                  "word": "MAMBO",
+                  "scoreMap": {
+                    "23": "GOLEM"
+                  }
+                },
+                "122": {
+                  "word": "TOXIC",
+                  "scoreMap": {
+                    "113": "COMMA",
+                    "203": "MEDIC",
+                    "401": "TOPIC"
+                  }
+                },
+                "203": {
+                  "word": "LOCUS",
+                  "scoreMap": {
+                    "203": "COCOA"
+                  }
+                },
+                "212": "MOTIF",
+                "311": "MACHO",
+                "401": "MOCHA"
+              }
+            },
+            "23": {
+              "word": "ELDIN",
+              "scoreMap": {
+                "5": "HAVOC",
+                "14": {
+                  "word": "POLKA",
+                  "scoreMap": {
+                    "23": "AXIOM"
+                  }
+                },
+                "23": "INPUT",
+                "32": "NEIGH",
+                "104": "ALLOW",
+                "113": "UNFIT",
+                "122": "FEIGN",
+                "131": "PLIED",
+                "212": "BEGIN"
+              }
+            },
+            "32": {
+              "word": "UNLIT",
+              "scoreMap": {
+                "113": "CABIN"
+              }
+            },
+            "41": "ALIGN",
+            "104": {
+              "word": "BORIC",
+              "scoreMap": {
+                "5": {
+                  "word": "MADAM",
+                  "scoreMap": {
+                    "203": "KAYAK"
+                  }
+                },
+                "14": "WIDTH",
+                "23": "CACAO",
+                "104": "TIMID",
+                "113": "BENCH",
+                "122": "BIGOT",
+                "203": "BOWEL",
+                "221": "BIRCH"
+              }
+            },
+            "113": {
+              "word": "PUNGA",
+              "scoreMap": {
+                "5": {
+                  "word": "WIELD",
+                  "scoreMap": {
+                    "401": "FIELD"
+                  }
+                },
+                "14": "KNEEL",
+                "23": "NIGHT",
+                "104": {
+                  "word": "PIVOT",
+                  "scoreMap": {
+                    "401": "PILOT"
+                  }
+                },
+                "113": "ENNUI",
+                "122": "HUMAN",
+                "131": "PAGAN",
+                "203": "TUNIC",
+                "302": "MANGA"
+              }
+            },
+            "122": {
+              "word": "PANIC",
+              "scoreMap": {
+                "23": "LIKEN",
+                "113": "UNTIL",
+                "212": "VAPID",
+                "302": "MANIA",
+                "401": "MANIC"
+              }
+            },
+            "131": {
+              "word": "VALID",
+              "scoreMap": {
+                "32": "AVIAN"
+              }
+            },
+            "140": "ANVIL",
+            "203": {
+              "word": "AFOUL",
+              "scoreMap": {
+                "5": "NINTH",
+                "104": "MINUS",
+                "113": "VOWEL",
+                "122": "LOCAL",
+                "131": "FOCAL",
+                "221": "OFFAL"
+              }
+            },
+            "212": {
+              "word": "VIXEN",
+              "scoreMap": {
+                "14": "ANNUL",
+                "113": "NINJA",
+                "302": "LINEN"
+              }
+            },
+            "221": "NAVAL",
+            "302": {
+              "word": "VOCAL",
+              "scoreMap": {
+                "203": "BANAL",
+                "212": "CANAL"
+              }
+            },
+            "401": "FINAL"
+          }
+        },
+        "23": {
+          "word": "MONDE",
+          "scoreMap": {
+            "5": "LYRIC",
+            "14": {
+              "word": "JUROR",
+              "scoreMap": {
+                "14": "RIGID",
+                "113": "INCUR",
+                "122": "OCCUR",
+                "203": "VIGOR",
+                "212": "RIGOR",
+                "401": "FUROR"
+              }
+            },
+            "23": {
+              "word": "CARON",
+              "scoreMap": {
+                "5": "YIELD",
+                "23": "AUDIO",
+                "104": "IDIOT",
+                "113": {
+                  "word": "RUMOR",
+                  "scoreMap": {
+                    "401": "HUMOR"
+                  }
+                },
+                "203": "BISON",
+                "212": "AXION",
+                "302": "WAGON",
+                "311": "BACON"
+              }
+            },
+            "32": {
+              "word": "UNWED",
+              "scoreMap": {
+                "23": "FELON",
+                "113": "VIDEO",
+                "131": "WIDEN",
+                "212": "INDEX",
+                "302": "KNEED",
+                "401": "UNFED"
+              }
+            },
+            "41": "LEMON",
+            "104": {
+              "word": "BROCH",
+              "scoreMap": {
+                "14": "LOYAL",
+                "23": "FORGO",
+                "32": "COLOR",
+                "113": "YOUTH",
+                "122": "ROUGH",
+                "221": "PORCH"
+              }
+            },
+            "113": {
+              "word": "BANCO",
+              "scoreMap": {
+                "14": "FORUM",
+                "23": "TOXIN",
+                "104": "OUTDO",
+                "122": "NOTCH",
+                "203": "JUNTO",
+                "221": "CANON",
+                "401": "BANJO"
+              }
+            },
+            "122": {
+              "word": "WOVEN",
+              "scoreMap": {
+                "302": "WOMAN",
+                "311": "NOVEL"
+              }
+            },
+            "131": {
+              "word": "WOMEN",
+              "scoreMap": {
+                "41": "VENOM",
+                "131": "MELON"
+              }
+            },
+            "203": {
+              "word": "AARTI",
+              "scoreMap": {
+                "5": "BONUS",
+                "14": "ZONAL",
+                "23": "TONIC",
+                "104": "MORPH"
+              }
+            },
+            "212": {
+              "word": "MODAL",
+              "scoreMap": {
+                "122": "MANGO"
+              }
+            },
+            "221": {
+              "word": "MODEM",
+              "scoreMap": {
+                "401": "MODEL"
+              }
+            },
+            "302": "MONTH"
+          }
+        },
+        "32": {
+          "word": "MINOR",
+          "scoreMap": {
+            "23": "WORLD",
+            "32": "NOMAD",
+            "41": "ROBIN",
+            "113": "ENDOW",
+            "221": "MORON",
+            "302": "HONOR"
+          }
+        },
+        "104": {
+          "word": "GAILY",
+          "scoreMap": {
+            "5": {
+              "word": "TOOTH",
+              "scoreMap": {
+                "5": "CRUMB",
+                "203": "EPOCH",
+                "221": "PHOTO",
+                "302": "QUOTH",
+                "401": "BOOTH"
+              }
+            },
+            "14": {
+              "word": "CLOTH",
+              "scoreMap": {
+                "5": "DEBUG",
+                "104": "KIOSK",
+                "113": "BLUNT",
+                "122": "DITCH",
+                "203": "FLOSS",
+                "212": "FLOUT",
+                "311": "CLOUT"
+              }
+            },
+            "23": {
+              "word": "CLOAK",
+              "scoreMap": {
+                "5": "DIGIT",
+                "14": "DEVIL",
+                "122": "AFOUL",
+                "212": "ALOOF"
+              }
+            },
+            "104": {
+              "word": "HUNKY",
+              "scoreMap": {
+                "5": {
+                  "word": "DWELL",
+                  "scoreMap": {
+                    "5": "CRIMP"
+                  }
+                },
+                "14": {
+                  "word": "CRICK",
+                  "scoreMap": {
+                    "104": "GRUFF",
+                    "401": "BRICK"
+                  }
+                },
+                "23": "FAUNA",
+                "32": "THINK",
+                "104": "BEEFY",
+                "203": {
+                  "word": "PUTTY",
+                  "scoreMap": {
+                    "203": "FUSSY"
+                  }
+                },
+                "212": {
+                  "word": "BALMS",
+                  "scoreMap": {
+                    "14": "PUSHY",
+                    "23": "MUSHY",
+                    "113": "BUSHY"
+                  }
+                },
+                "302": {
+                  "word": "MUSKY",
+                  "scoreMap": {
+                    "302": "HUSSY"
+                  }
+                },
+                "401": "HUSKY"
+              }
+            },
+            "113": {
+              "word": "KITHS",
+              "scoreMap": {
+                "14": "BEING",
+                "23": "FLINT",
+                "32": "THING",
+                "104": "GLOSS",
+                "113": {
+                  "word": "MISSY",
+                  "scoreMap": {
+                    "203": "FIFTY"
+                  }
+                },
+                "203": {
+                  "word": "WITTY",
+                  "scoreMap": {
+                    "401": "BITTY"
+                  }
+                },
+                "212": "FISHY",
+                "302": "KITTY"
+              }
+            },
+            "122": {
+              "word": "LEGGY",
+              "scoreMap": {
+                "14": "VIOLA",
+                "23": "AGING",
+                "113": "ALLAY",
+                "221": "ELEGY"
+              }
+            },
+            "203": {
+              "word": "BEAKY",
+              "scoreMap": {
+                "5": "FRILL",
+                "14": "KRILL",
+                "104": "GYPSY",
+                "113": {
+                  "word": "ABAMP",
+                  "scoreMap": {
+                    "14": "JAZZY",
+                    "23": "HAPPY",
+                    "113": "MAMMY"
+                  }
+                },
+                "122": "CABBY",
+                "203": "JELLY",
+                "212": "WACKY",
+                "302": {
+                  "word": "GEEKY",
+                  "scoreMap": {
+                    "203": "BELLY"
+                  }
+                }
+              }
+            },
+            "212": {
+              "word": "BAGGY",
+              "scoreMap": {
+                "14": "GLINT",
+                "113": "APPLY"
+              }
+            },
+            "302": {
+              "word": "GRILL",
+              "scoreMap": {
+                "104": "GAWKY"
+              }
+            },
+            "401": "GAYLY"
+          }
+        },
+        "113": {
+          "word": "MADLY",
+          "scoreMap": {
+            "5": {
+              "word": "PRIOR",
+              "scoreMap": {
+                "14": "COUNT",
+                "113": "JOINT",
+                "122": "CHOIR",
+                "212": "POINT"
+              }
+            },
+            "14": {
+              "word": "DEPOT",
+              "scoreMap": {
+                "14": "FLOUR",
+                "23": "FIEND",
+                "104": "FLOOR",
+                "113": "DISCO",
+                "122": "DITTO",
+                "203": "DEIGN",
+                "212": "DOUBT"
+              }
+            },
+            "23": {
+              "word": "DENIM",
+              "scoreMap": {
+                "32": "BLEND",
+                "113": "AVOID"
+              }
+            },
+            "32": {
+              "word": "DOGMA",
+              "scoreMap": {
+                "32": "ALOUD"
+              }
+            },
+            "104": {
+              "word": "BURIN",
+              "scoreMap": {
+                "5": "COVEY",
+                "23": "MOUNT",
+                "32": "UNITY",
+                "104": "BOSSY",
+                "113": "NUTTY",
+                "122": "RUGBY",
+                "203": "CURVY"
+              }
+            },
+            "113": {
+              "word": "EDIFY",
+              "scoreMap": {
+                "104": "LOUSY",
+                "113": "LOFTY",
+                "122": "WEEDY",
+                "203": "ENEMY"
+              }
+            },
+            "122": {
+              "word": "INLAY",
+              "scoreMap": {
+                "212": "ALLOY"
+              }
+            },
+            "203": {
+              "word": "CURLI",
+              "scoreMap": {
+                "5": "MOSSY",
+                "14": {
+                  "word": "MINTY",
+                  "scoreMap": {
+                    "203": "FANCY"
+                  }
+                },
+                "104": "NEWLY",
+                "203": "MURKY",
+                "212": "GIRLY",
+                "302": "BURLY",
+                "401": "CURLY"
+              }
+            },
+            "212": "GAUDY",
+            "302": {
+              "word": "PADDY",
+              "scoreMap": {
+                "401": "CADDY"
+              }
+            },
+            "401": {
+              "word": "MANLY",
+              "scoreMap": {
+                "302": "BADLY"
+              }
+            }
+          }
+        },
+        "122": {
+          "word": "MOTEN",
+          "scoreMap": {
+            "5": "RUDDY",
+            "14": {
+              "word": "HANDY",
+              "scoreMap": {
+                "401": "CANDY"
+              }
+            },
+            "23": {
+              "word": "NEEDY",
+              "scoreMap": {
+                "113": "ANNOY"
+              }
+            },
+            "32": {
+              "word": "ENVOY",
+              "scoreMap": {
+                "401": "ENJOY"
+              }
+            },
+            "104": "ROCKY",
+            "113": {
+              "word": "TODDY",
+              "scoreMap": {
+                "203": "NOISY"
+              }
+            },
+            "122": "DONUT",
+            "131": "DEMON",
+            "212": "HONEY",
+            "302": "DOZEN",
+            "311": "MONEY"
+          }
+        },
+        "131": {
+          "word": "ROWDY",
+          "scoreMap": {
+            "122": "DONOR",
+            "212": "ROUND",
+            "320": "WORDY"
+          }
+        },
+        "203": {
+          "word": "GRAIL",
+          "scoreMap": {
+            "5": {
+              "word": "PENNY",
+              "scoreMap": {
+                "104": "BOOTY",
+                "122": "EPOXY"
+              }
+            },
+            "14": {
+              "word": "FANCY",
+              "scoreMap": {
+                "104": "DITTY",
+                "113": "DICEY",
+                "203": "DADDY",
+                "302": "NANNY",
+                "311": "CANNY",
+                "401": "FANNY"
+              }
+            },
+            "23": {
+              "word": "DALLY",
+              "scoreMap": {
+                "14": "AMONG"
+              }
+            },
+            "32": {
+              "word": "DAILY",
+              "scoreMap": {
+                "23": "ALONG"
+              }
+            },
+            "104": {
+              "word": "FROCK",
+              "scoreMap": {
+                "104": "GOOEY",
+                "203": "BROOM",
+                "212": "PROOF",
+                "302": "BROOK",
+                "311": "CROOK",
+                "401": "CROCK"
+              }
+            },
+            "113": {
+              "word": "WRYLY",
+              "scoreMap": {
+                "104": "BRINK",
+                "203": "PRIVY"
+              }
+            },
+            "122": {
+              "word": "WRING",
+              "scoreMap": {
+                "401": "BRING"
+              }
+            },
+            "203": {
+              "word": "PROWL",
+              "scoreMap": {
+                "104": "DRUID",
+                "203": "GROOM",
+                "212": "GROUP"
+              }
+            },
+            "212": {
+              "word": "GRIMY",
+              "scoreMap": {
+                "203": "DRILL"
+              }
+            },
+            "302": "GROWL"
+          }
+        },
+        "212": {
+          "word": "BRING",
+          "scoreMap": {
+            "5": {
+              "word": "DOPEY",
+              "scoreMap": {
+                "221": "DECOY"
+              }
+            },
+            "14": {
+              "word": "ROOMY",
+              "scoreMap": {
+                "104": "DANDY"
+              }
+            },
+            "104": {
+              "word": "PROUD",
+              "scoreMap": {
+                "302": "CROWD"
+              }
+            },
+            "113": {
+              "word": "FROWN",
+              "scoreMap": {
+                "401": "CROWN"
+              }
+            },
+            "122": "GROWN",
+            "131": "GROIN",
+            "203": "BROOD",
+            "212": "BROWN",
+            "311": "GRIND"
+          }
+        },
+        "221": "CORNY",
+        "302": {
+          "word": "OPING",
+          "scoreMap": {
+            "5": "DRYLY",
+            "14": {
+              "word": "DROOL",
+              "scoreMap": {
+                "401": "DROLL"
+              }
+            },
+            "23": {
+              "word": "PROXY",
+              "scoreMap": {
+                "212": "DROOP"
+              }
+            },
+            "104": "DRUNK",
+            "113": "EBONY",
+            "122": "AGONY",
+            "203": "DRINK",
+            "212": "WRONG"
+          }
+        },
+        "311": "DROWN",
+        "401": {
+          "word": "IRONY",
+          "scoreMap": {
+            "401": "CRONY"
+          }
+        }
+      }
+    },
+    "23": {
+      "word": "LADER",
+      "scoreMap": {
+        "5": {
+          "word": "GHOST",
+          "scoreMap": {
+            "23": "MUSTY",
+            "113": {
+              "word": "VISIT",
+              "scoreMap": {
+                "122": "TIPSY"
+              }
+            },
+            "122": {
+              "word": "POSIT",
+              "scoreMap": {
+                "113": "GUSTY"
+              }
+            },
+            "131": "GUSTO",
+            "203": "TWIST",
+            "212": {
+              "word": "FERMI",
+              "scoreMap": {
+                "5": "JOUST",
+                "14": "JOIST",
+                "23": "MOIST",
+                "113": "FOIST"
+              }
+            },
+            "221": "HOIST",
+            "302": "BOOST"
+          }
+        },
+        "14": {
+          "word": "FROTH",
+          "scoreMap": {
+            "5": {
+              "word": "ASSAY",
+              "scoreMap": {
+                "23": "GUESS",
+                "122": "AMISS",
+                "131": "ABYSS",
+                "203": "PESKY"
+              }
+            },
+            "14": {
+              "word": "AGENT",
+              "scoreMap": {
+                "5": {
+                  "word": "VIRUS",
+                  "scoreMap": {
+                    "122": "RISKY"
+                  }
+                },
+                "23": "TIBIA",
+                "32": "TITAN",
+                "104": "CHESS",
+                "113": "EVICT",
+                "122": "ANTIC",
+                "203": "EJECT",
+                "212": "INEPT",
+                "302": "EVENT"
+              }
+            },
+            "23": {
+              "word": "TOPAZ",
+              "scoreMap": {
+                "14": "EIGHT",
+                "32": "ABBOT",
+                "122": "TEMPO"
+              }
+            },
+            "32": {
+              "word": "TURBO",
+              "scoreMap": {
+                "23": "RIGHT",
+                "41": "ROBOT",
+                "104": "THEFT"
+              }
+            },
+            "41": {
+              "word": "THROW",
+              "scoreMap": {
+                "401": "THROB"
+              }
+            },
+            "104": {
+              "word": "PIETY",
+              "scoreMap": {
+                "14": "BRISK",
+                "23": "CRISP",
+                "104": "JUNTA",
+                "113": "PRISM",
+                "203": "DUSTY",
+                "212": "JETTY",
+                "221": "EMPTY",
+                "311": "PETTY"
+              }
+            },
+            "113": {
+              "word": "BRUNT",
+              "scoreMap": {
+                "113": "TRICK",
+                "122": "ABOUT",
+                "203": "CRYPT",
+                "212": "TRUCK",
+                "302": "PRINT",
+                "311": "TRUNK",
+                "401": "GRUNT"
+              }
+            },
+            "122": {
+              "word": "ORBIT",
+              "scoreMap": {
+                "14": "HEFTY",
+                "113": "AFOOT"
+              }
+            },
+            "131": "TORCH",
+            "203": {
+              "word": "CURNS",
+              "scoreMap": {
+                "5": "TEETH",
+                "14": "TENTH",
+                "23": "FRISK",
+                "32": "BRUSH",
+                "104": "QUOTA",
+                "113": "GROSS",
+                "131": "CRUSH",
+                "212": "CROSS"
+              }
+            },
+            "212": {
+              "word": "BIGHT",
+              "scoreMap": {
+                "14": "TROOP",
+                "23": "FETCH",
+                "104": "TROUT",
+                "113": "FRUIT",
+                "122": "MIRTH",
+                "131": "GIRTH",
+                "221": "BIRTH"
+              }
+            },
+            "221": {
+              "word": "WORTH",
+              "scoreMap": {
+                "302": "FORTY",
+                "401": "NORTH"
+              }
+            },
+            "302": {
+              "word": "TRUTH",
+              "scoreMap": {
+                "203": "FRITZ"
+              }
+            },
+            "311": "FRONT",
+            "320": "FORTH",
+            "401": "BROTH"
+          }
+        },
+        "23": {
+          "word": "GROAN",
+          "scoreMap": {
+            "5": {
+              "word": "DEBIT",
+              "scoreMap": {
+                "14": "FLESH",
+                "23": "BLESS",
+                "113": {
+                  "word": "EXULT",
+                  "scoreMap": {
+                    "212": "ELECT"
+                  }
+                },
+                "131": "EDICT",
+                "212": "DEPTH",
+                "221": "DEITY",
+                "401": "DEBUT"
+              }
+            },
+            "14": {
+              "word": "PERKY",
+              "scoreMap": {
+                "5": "ADMIT",
+                "14": "EXTOL",
+                "104": {
+                  "word": "MECCA",
+                  "scoreMap": {
+                    "104": "DETOX"
+                  }
+                },
+                "113": "DEPOT",
+                "203": "DIRTY",
+                "302": {
+                  "word": "PERCH",
+                  "scoreMap": {
+                    "302": "MERCY"
+                  }
+                },
+                "401": "JERKY"
+              }
+            },
+            "23": {
+              "word": "HYENA",
+              "scoreMap": {
+                "14": "ALLOT",
+                "104": "CIRCA",
+                "212": "ENEMA"
+              }
+            },
+            "32": "OMEGA",
+            "104": {
+              "word": "BAULK",
+              "scoreMap": {
+                "5": "DRIFT",
+                "14": "CHEAP",
+                "23": "VITAL",
+                "32": "KEBAB",
+                "104": "WRECK",
+                "122": "USUAL",
+                "203": "TRULY"
+              }
+            },
+            "113": {
+              "word": "TOTAL",
+              "scoreMap": {
+                "5": "RERUN",
+                "32": "ADOPT"
+              }
+            },
+            "122": {
+              "word": "FORAY",
+              "scoreMap": {
+                "14": "REIGN",
+                "113": "HERON",
+                "122": "ARROW",
+                "302": "BORAX"
+              }
+            },
+            "131": "APRON",
+            "203": {
+              "word": "ABACS",
+              "scoreMap": {
+                "5": "TROLL",
+                "14": "FLOAT",
+                "23": "BLOAT",
+                "104": "DROSS",
+                "113": "ARRAY"
+              }
+            },
+            "212": {
+              "word": "VEGAN",
+              "scoreMap": {
+                "14": "AROMA",
+                "212": "OCEAN"
+              }
+            },
+            "302": {
+              "word": "URBAN",
+              "scoreMap": {
+                "104": "GLOAT",
+                "203": "CROAK"
+              }
+            },
+            "320": "ORGAN"
+          }
+        },
+        "32": {
+          "word": "CORAL",
+          "scoreMap": {
+            "14": {
+              "word": "REEDY",
+              "scoreMap": {
+                "113": "AMEND"
+              }
+            },
+            "23": {
+              "word": "REPLY",
+              "scoreMap": {
+                "104": "ADULT",
+                "203": "FELLA"
+              }
+            },
+            "32": "RELIC",
+            "104": {
+              "word": "KNEAD",
+              "scoreMap": {
+                "23": "DERBY",
+                "302": "AHEAD"
+              }
+            },
+            "113": {
+              "word": "GLEAN",
+              "scoreMap": {
+                "113": "DECAY",
+                "302": "BLEAK",
+                "401": "GLEAM"
+              }
+            },
+            "122": {
+              "word": "BROAD",
+              "scoreMap": {
+                "122": "ACRID"
+              }
+            },
+            "203": {
+              "word": "PERIL",
+              "scoreMap": {
+                "113": "EQUAL",
+                "302": "PENAL"
+              }
+            },
+            "212": {
+              "word": "RIVAL",
+              "scoreMap": {
+                "113": "CLEAN"
+              }
+            },
+            "302": {
+              "word": "RURAL",
+              "scoreMap": {
+                "302": "VIRAL",
+                "401": "MURAL"
+              }
+            },
+            "311": "ROYAL",
+            "401": "MORAL"
+          }
+        },
+        "41": {
+          "word": "DECAL",
+          "scoreMap": {
+            "131": "PLEAD",
+            "221": "IDEAL",
+            "311": "DELAY"
+          }
+        },
+        "104": {
+          "word": "CHANT",
+          "scoreMap": {
+            "5": "VISOR",
+            "14": {
+              "word": "BURRO",
+              "scoreMap": {
+                "5": "GASSY",
+                "14": "TOTEM",
+                "23": "MOTOR",
+                "32": "ROTOR",
+                "104": "BASIS",
+                "122": "TUTOR"
+              }
+            },
+            "23": {
+              "word": "BAWTY",
+              "scoreMap": {
+                "14": {
+                  "word": "TOKEN",
+                  "scoreMap": {
+                    "221": "OFTEN"
+                  }
+                },
+                "104": "MASON",
+                "113": "PATIO",
+                "122": "TABOO",
+                "203": {
+                  "word": "BASIN",
+                  "scoreMap": {
+                    "401": "BASIC"
+                  }
+                },
+                "212": "TAFFY",
+                "221": "TABBY",
+                "302": {
+                  "word": "FLAPS",
+                  "scoreMap": {
+                    "14": "TATTY",
+                    "23": "PATTY",
+                    "113": "FATTY"
+                  }
+                },
+                "401": "BATTY"
+              }
+            },
+            "32": {
+              "word": "TANGY",
+              "scoreMap": {
+                "113": "FAITH",
+                "122": "BATON",
+                "302": "TACKY",
+                "401": "TANGO"
+              }
+            },
+            "41": {
+              "word": "BLIMP",
+              "scoreMap": {
+                "5": {
+                  "word": "WATCH",
+                  "scoreMap": {
+                    "401": "HATCH"
+                  }
+                },
+                "14": {
+                  "word": "PATCH",
+                  "scoreMap": {
+                    "401": "MATCH"
+                  }
+                },
+                "104": "BATCH"
+              }
+            },
+            "104": {
+              "word": "TWEET",
+              "scoreMap": {
+                "104": "MIDST",
+                "203": "QUIET",
+                "212": "BEGET"
+              }
+            },
+            "113": {
+              "word": "THIEF",
+              "scoreMap": {
+                "14": "GAMUT",
+                "113": "OCTET",
+                "203": "TENET"
+              }
+            },
+            "122": {
+              "word": "TACIT",
+              "scoreMap": {
+                "131": "CATTY",
+                "203": "TAWNY",
+                "221": "CACTI",
+                "302": "HABIT"
+              }
+            },
+            "131": {
+              "word": "YACHT",
+              "scoreMap": {
+                "131": "CATCH"
+              }
+            },
+            "203": {
+              "word": "COVET",
+              "scoreMap": {
+                "401": "COMET"
+              }
+            },
+            "212": {
+              "word": "FLITT",
+              "scoreMap": {
+                "104": "JAUNT",
+                "113": "TAUNT",
+                "203": "PAINT",
+                "212": "TAINT",
+                "302": "FAINT"
+              }
+            },
+            "221": "HAUNT"
+          }
+        },
+        "113": {
+          "word": "BARFI",
+          "scoreMap": {
+            "5": {
+              "word": "HATED",
+              "scoreMap": {
+                "32": "TEDDY",
+                "113": "TOWEL",
+                "122": "DUVET",
+                "203": "MOTEL",
+                "212": "TWEED",
+                "302": "HOTEL"
+              }
+            },
+            "14": {
+              "word": "PREEN",
+              "scoreMap": {
+                "5": "TODAY",
+                "23": "RECUR",
+                "113": {
+                  "word": "INLET",
+                  "scoreMap": {
+                    "203": "ANNEX"
+                  }
+                },
+                "122": "APNEA",
+                "131": "RENEW",
+                "203": "FLEET",
+                "302": "CREEK",
+                "311": "CREEP",
+                "401": "GREEN"
+              }
+            },
+            "23": {
+              "word": "ABORE",
+              "scoreMap": {
+                "14": "FILET",
+                "23": "FEMUR",
+                "104": "AUDIT",
+                "113": "AUGUR",
+                "122": "ARMOR",
+                "212": "ABBEY"
+              }
+            },
+            "32": {
+              "word": "GRIEF",
+              "scoreMap": {
+                "14": "ABHOR",
+                "32": "CIGAR",
+                "104": "ARBOR"
+              }
+            },
+            "41": "FRIAR",
+            "104": {
+              "word": "NAUNT",
+              "scoreMap": {
+                "5": "ERROR",
+                "14": "BETEL",
+                "113": {
+                  "word": "WALTZ",
+                  "scoreMap": {
+                    "212": "TALLY"
+                  }
+                },
+                "122": "TALON",
+                "203": "NASAL",
+                "212": "NATAL",
+                "302": "VAULT",
+                "401": "DAUNT"
+              }
+            },
+            "113": {
+              "word": "ADHAN",
+              "scoreMap": {
+                "14": "FAULT",
+                "23": "DAISY",
+                "32": "RANCH",
+                "113": "FATAL",
+                "122": "RAJAH"
+              }
+            },
+            "122": "RAINY",
+            "131": {
+              "word": "BRIEF",
+              "scoreMap": {
+                "302": "BRIAR"
+              }
+            },
+            "203": {
+              "word": "KARMA",
+              "scoreMap": {
+                "113": "BASAL",
+                "203": "CARGO",
+                "212": "MARCH",
+                "311": "PARKA"
+              }
+            },
+            "212": "BASIL",
+            "221": "RABBI",
+            "302": "BARON"
+          }
+        },
+        "122": {
+          "word": "REDIP",
+          "scoreMap": {
+            "14": {
+              "word": "MOLAR",
+              "scoreMap": {
+                "23": "ANGEL",
+                "41": "CAROL",
+                "113": "ALLEY"
+              }
+            },
+            "23": {
+              "word": "CRUEL",
+              "scoreMap": {
+                "14": "HARDY",
+                "23": "POLAR",
+                "113": "ALIEN"
+              }
+            },
+            "32": {
+              "word": "BACCA",
+              "scoreMap": {
+                "5": {
+                  "word": "GREED",
+                  "scoreMap": {
+                    "401": "FREED"
+                  }
+                },
+                "14": "CREED",
+                "104": "BREED"
+              }
+            },
+            "41": "DRIED",
+            "104": {
+              "word": "RALLY",
+              "scoreMap": {
+                "32": "LEGAL"
+              }
+            },
+            "113": "TIDAL",
+            "122": {
+              "word": "DEMUR",
+              "scoreMap": {
+                "302": "DECOR"
+              }
+            },
+            "203": {
+              "word": "REVEL",
+              "scoreMap": {
+                "401": "REBEL"
+              }
+            },
+            "212": {
+              "word": "REPEL",
+              "scoreMap": {
+                "104": "RABID"
+              }
+            },
+            "221": "RAPID",
+            "302": "MEDIA"
+          }
+        },
+        "131": {
+          "word": "PEDAL",
+          "scoreMap": {
+            "401": "MEDAL"
+          }
+        },
+        "203": {
+          "word": "ROVEN",
+          "scoreMap": {
+            "5": "LATCH",
+            "14": "LASSO",
+            "23": {
+              "word": "MAYOR",
+              "scoreMap": {
+                "401": "MAJOR"
+              }
+            },
+            "32": {
+              "word": "VAPOR",
+              "scoreMap": {
+                "302": "MANOR"
+              }
+            },
+            "104": "CAGEY",
+            "113": {
+              "word": "PREIF",
+              "scoreMap": {
+                "14": {
+                  "word": "RAZOR",
+                  "scoreMap": {
+                    "113": "CAMEO"
+                  }
+                },
+                "23": {
+                  "word": "EMBER",
+                  "scoreMap": {
+                    "212": "BUYER"
+                  }
+                },
+                "32": {
+                  "word": "UPPER",
+                  "scoreMap": {
+                    "203": "FEWER"
+                  }
+                },
+                "41": "FIXER",
+                "113": {
+                  "word": "QUEER",
+                  "scoreMap": {
+                    "302": "CHEER"
+                  }
+                },
+                "122": {
+                  "word": "PURER",
+                  "scoreMap": {
+                    "212": "CRIER"
+                  }
+                },
+                "131": "PIPER",
+                "212": "FREER"
+              }
+            },
+            "122": {
+              "word": "MINER",
+              "scoreMap": {
+                "104": "FAVOR",
+                "203": "OFFER",
+                "212": "NEWER",
+                "221": "INFER",
+                "302": "VIPER",
+                "311": "INNER",
+                "401": "FINER"
+              }
+            },
+            "131": "OWNER",
+            "203": {
+              "word": "RIPER",
+              "scoreMap": {
+                "104": "WAXEN",
+                "302": "REFER"
+              }
+            },
+            "212": {
+              "word": "COWPS",
+              "scoreMap": {
+                "5": {
+                  "word": "GIVER",
+                  "scoreMap": {
+                    "302": "FEVER"
+                  }
+                },
+                "104": {
+                  "word": "ABYES",
+                  "scoreMap": {
+                    "104": "JOKER",
+                    "113": "BOXER",
+                    "203": "FOYER"
+                  }
+                },
+                "113": {
+                  "word": "WOOER",
+                  "scoreMap": {
+                    "302": "POKER"
+                  }
+                },
+                "203": {
+                  "word": "MOWER",
+                  "scoreMap": {
+                    "302": "CORER"
+                  }
+                },
+                "212": "POWER",
+                "302": "COWER"
+              }
+            },
+            "221": {
+              "word": "NEVER",
+              "scoreMap": {
+                "212": "GONER"
+              }
+            },
+            "302": {
+              "word": "ROWER",
+              "scoreMap": {
+                "104": "HAVEN",
+                "302": "RIVER",
+                "401": "ROGER"
+              }
+            },
+            "311": {
+              "word": "CACHE",
+              "scoreMap": {
+                "14": "MOVER",
+                "23": "HOVER",
+                "113": "COVER"
+              }
+            },
+            "401": "ROVER"
+          }
+        },
+        "212": {
+          "word": "RIVEL",
+          "scoreMap": {
+            "14": "ARDOR",
+            "23": "LUNAR",
+            "32": {
+              "word": "VALOR",
+              "scoreMap": {
+                "113": "LEMUR",
+                "131": "LARVA"
+              }
+            },
+            "113": {
+              "word": "ANYON",
+              "scoreMap": {
+                "5": "DEFER",
+                "14": "RADII",
+                "23": "RADIO",
+                "104": "DRYER"
+              }
+            },
+            "122": {
+              "word": "ULCER",
+              "scoreMap": {
+                "203": "DRIER"
+              }
+            },
+            "131": "PLIER",
+            "203": {
+              "word": "ABMHO",
+              "scoreMap": {
+                "14": "PANEL",
+                "23": {
+                  "word": "HAZEL",
+                  "scoreMap": {
+                    "302": "BAGEL"
+                  }
+                },
+                "104": "RODEO",
+                "113": "CAMEL"
+              }
+            },
+            "212": {
+              "word": "RULER",
+              "scoreMap": {
+                "203": "DINER"
+              }
+            },
+            "221": "FILER",
+            "302": {
+              "word": "NAVEL",
+              "scoreMap": {
+                "401": "GAVEL"
+              }
+            },
+            "311": "DIVER"
+          }
+        },
+        "302": {
+          "word": "REDID",
+          "scoreMap": {
+            "14": {
+              "word": "LAPEL",
+              "scoreMap": {
+                "203": "LABOR",
+                "401": "LABEL"
+              }
+            },
+            "23": {
+              "word": "LOWER",
+              "scoreMap": {
+                "401": "LOVER"
+              }
+            },
+            "32": {
+              "word": "LIVER",
+              "scoreMap": {
+                "401": "LINER"
+              }
+            },
+            "113": {
+              "word": "LEVER",
+              "scoreMap": {
+                "401": "LEPER"
+              }
+            },
+            "122": {
+              "word": "UNDER",
+              "scoreMap": {
+                "302": "ORDER"
+              }
+            },
+            "131": {
+              "word": "ADOWN",
+              "scoreMap": {
+                "14": "CIDER",
+                "23": "WIDER",
+                "104": "UDDER",
+                "113": "ODDER"
+              }
+            },
+            "203": "RADAR",
+            "212": {
+              "word": "RUDER",
+              "scoreMap": {
+                "203": "NADIR"
+              }
+            },
+            "221": "RIDER"
+          }
+        },
+        "311": {
+          "word": "OLDER",
+          "scoreMap": {
+            "401": "ELDER"
+          }
+        },
+        "401": "LADEN"
+      }
+    },
+    "32": {
+      "word": "LAMER",
+      "scoreMap": {
+        "14": {
+          "word": "CROUT",
+          "scoreMap": {
+            "14": {
+              "word": "ZESTY",
+              "scoreMap": {
+                "401": "TESTY"
+              }
+            },
+            "23": "PESTO",
+            "32": {
+              "word": "TORSO",
+              "scoreMap": {
+                "32": "RUSTY"
+              }
+            },
+            "104": {
+              "word": "HEIST",
+              "scoreMap": {
+                "203": "ANGST",
+                "311": "EXIST"
+              }
+            },
+            "113": {
+              "word": "QUEST",
+              "scoreMap": {
+                "41": "FETUS",
+                "203": "FIRST",
+                "401": "GUEST"
+              }
+            },
+            "122": {
+              "word": "WORST",
+              "scoreMap": {
+                "122": "TRUSS",
+                "302": "BURST"
+              }
+            },
+            "203": {
+              "word": "WRIST",
+              "scoreMap": {
+                "203": "CHEST",
+                "302": "TRYST"
+              }
+            },
+            "212": {
+              "word": "TRUST",
+              "scoreMap": {
+                "212": "ROOST"
+              }
+            },
+            "302": "FROST",
+            "311": "CRUST"
+          }
+        },
+        "23": {
+          "word": "THECA",
+          "scoreMap": {
+            "14": {
+              "word": "RESIN",
+              "scoreMap": {
+                "212": "ARSON"
+              }
+            },
+            "23": {
+              "word": "REBUT",
+              "scoreMap": {
+                "14": "ESSAY",
+                "131": "ERUPT"
+              }
+            },
+            "32": "BERTH",
+            "104": {
+              "word": "PRESS",
+              "scoreMap": {
+                "401": "DRESS"
+              }
+            },
+            "113": {
+              "word": "FRESH",
+              "scoreMap": {
+                "14": "AORTA",
+                "104": "TRIAD",
+                "302": "CRESS"
+              }
+            },
+            "122": {
+              "word": "AGENT",
+              "scoreMap": {
+                "302": "ADEPT"
+              }
+            },
+            "203": "TREND",
+            "212": {
+              "word": "TWEAK",
+              "scoreMap": {
+                "113": "ERECT"
+              }
+            },
+            "221": "WHEAT",
+            "230": "CHEAT",
+            "401": "THETA"
+          }
+        },
+        "32": {
+          "word": "BREAD",
+          "scoreMap": {
+            "23": "MERIT",
+            "32": "DELTA",
+            "113": {
+              "word": "PETAL",
+              "scoreMap": {
+                "401": "FETAL"
+              }
+            },
+            "122": {
+              "word": "REPAY",
+              "scoreMap": {
+                "311": "RECAP"
+              }
+            },
+            "203": {
+              "word": "TRIAL",
+              "scoreMap": {
+                "122": "CLEAT"
+              }
+            },
+            "212": "ARENA",
+            "302": {
+              "word": "CAFES",
+              "scoreMap": {
+                "23": "WREAK",
+                "32": "FREAK",
+                "122": "CREAK"
+              }
+            },
+            "401": {
+              "word": "DREAD",
+              "scoreMap": {
+                "302": "BREAK"
+              }
+            }
+          }
+        },
+        "41": {
+          "word": "RELAY",
+          "scoreMap": {
+            "122": {
+              "word": "DREAM",
+              "scoreMap": {
+                "401": "CREAM"
+              }
+            },
+            "212": "METAL",
+            "221": "FERAL",
+            "311": "REGAL",
+            "401": "RELAX"
+          }
+        },
+        "104": {
+          "word": "NETTY",
+          "scoreMap": {
+            "14": "WAIST",
+            "23": "UPSET",
+            "32": {
+              "word": "UNSET",
+              "scoreMap": {
+                "401": "ONSET"
+              }
+            },
+            "104": "PASTA",
+            "113": "BESET",
+            "203": {
+              "word": "PASTY",
+              "scoreMap": {
+                "401": "HASTY"
+              }
+            },
+            "212": "TASTY",
+            "302": "NASTY"
+          }
+        },
+        "113": {
+          "word": "TERCE",
+          "scoreMap": {
+            "14": "ASHEN",
+            "23": {
+              "word": "RATTY",
+              "scoreMap": {
+                "302": "RATIO"
+              }
+            },
+            "32": "ACTOR",
+            "41": "GREET",
+            "104": "HARSH",
+            "113": "PARTY",
+            "122": {
+              "word": "THEIR",
+              "scoreMap": {
+                "23": "CARAT"
+              }
+            },
+            "131": "EGRET",
+            "203": {
+              "word": "TAROT",
+              "scoreMap": {
+                "302": "TARDY"
+              }
+            },
+            "212": "TENOR",
+            "221": "BERET"
+          }
+        },
+        "122": {
+          "word": "CEDAR",
+          "scoreMap": {
+            "23": "MARSH",
+            "113": "REMIT",
+            "203": "ALTAR",
+            "302": "REBAR"
+          }
+        },
+        "131": {
+          "word": "EARLY",
+          "scoreMap": {
+            "41": "CLEAR"
+          }
+        },
+        "203": {
+          "word": "COTAN",
+          "scoreMap": {
+            "5": {
+              "word": "WISER",
+              "scoreMap": {
+                "401": "RISER"
+              }
+            },
+            "14": {
+              "word": "TRUER",
+              "scoreMap": {
+                "302": "TIGER"
+              }
+            },
+            "23": "TAPIR",
+            "32": "FACET",
+            "104": {
+              "word": "POSER",
+              "scoreMap": {
+                "203": "DETER"
+              }
+            },
+            "113": {
+              "word": "TOWER",
+              "scoreMap": {
+                "212": "ENTER",
+                "221": "OUTER"
+              }
+            },
+            "122": "CADET",
+            "203": "VOTER",
+            "212": "EATEN"
+          }
+        },
+        "212": {
+          "word": "AESIR",
+          "scoreMap": {
+            "23": "VALET",
+            "32": "RAVEN",
+            "122": "EASEL",
+            "203": "METER",
+            "212": "ANGER",
+            "221": "MISER"
+          }
+        },
+        "221": {
+          "word": "HAREM",
+          "scoreMap": {
+            "131": "AMBER"
+          }
+        },
+        "302": {
+          "word": "PARGO",
+          "scoreMap": {
+            "14": "TIMER",
+            "23": "LOSER",
+            "113": {
+              "word": "WAVER",
+              "scoreMap": {
+                "302": {
+                  "word": "RACER",
+                  "scoreMap": {
+                    "302": "BAKER"
+                  }
+                },
+                "401": "WAFER"
+              }
+            },
+            "122": {
+              "word": "WAGER",
+              "scoreMap": {
+                "302": "CAPER",
+                "311": "GAZER",
+                "401": "EAGER"
+              }
+            },
+            "203": "RARER",
+            "212": "PAPER",
+            "302": "PARER"
+          }
+        },
+        "311": {
+          "word": "PALER",
+          "scoreMap": {
+            "302": "MAKER"
+          }
+        },
+        "401": {
+          "word": "LAYER",
+          "scoreMap": {
+            "302": "GAMER",
+            "401": "LAGER"
           }
         }
       }
     },
     "41": {
-      "word": "ALTER",
+      "word": "LATED",
       "scoreMap": {
+        "23": {
+          "word": "WREST",
+          "scoreMap": {
+            "401": "CREST"
+          }
+        },
         "32": {
-          "word": "CREST",
+          "word": "TREAT",
           "scoreMap": {
-            "401": "WREST"
+            "401": "GREAT"
           }
         },
-        "41": {
-          "word": "GREAT",
+        "113": "RESET",
+        "122": {
+          "word": "EARTH",
           "scoreMap": {
-            "41": "EARTH",
-            "311": "TREAD"
+            "32": "ASSET"
           }
         },
-        "221": {
-          "word": "TAKER",
+        "131": "TREAD",
+        "203": "ESTER",
+        "212": {
+          "word": "TAPER",
           "scoreMap": {
-            "401": "TAPER"
+            "221": "AFTER",
+            "401": "TAKER"
           }
         },
-        "311": {
-          "word": "CHAFE",
+        "221": "ALTER",
+        "302": {
+          "word": "CACHE",
           "scoreMap": {
-            "23": "WATER",
-            "32": "HATER",
-            "122": "CATER"
+            "113": {
+              "word": "WATER",
+              "scoreMap": {
+                "401": "EATER"
+              }
+            },
+            "122": "HATER",
+            "212": "CATER"
           }
         },
-        "320": "LATER",
-        "401": "AFTER"
+        "401": "LATER"
       }
     },
     "104": {
-      "word": "SLING",
+      "word": "LUNGE",
       "scoreMap": {
         "5": {
-          "word": "CHOKE",
-          "scoreMap": {
-            "14": "DOWRY",
-            "122": "WHACK",
-            "203": "CHAMP",
-            "212": "COUPE",
-            "302": "CHORD"
-          }
-        },
-        "14": {
-          "word": "CHOIR",
+          "word": "SPICK",
           "scoreMap": {
             "5": {
-              "word": "BUDGE",
+              "word": "WORRY",
               "scoreMap": {
-                "401": "FUDGE"
+                "113": "FJORD",
+                "212": "MYRRH",
+                "311": "DOWRY"
               }
             },
             "14": {
-              "word": "DUNCE",
+              "word": "IVORY",
               "scoreMap": {
-                "113": "VOGUE"
+                "5": "CHAFF",
+                "203": "CHORD"
               }
             },
             "23": {
-              "word": "MOURN",
+              "word": "MICRO",
               "scoreMap": {
-                "32": "OUNCE"
+                "14": "KHAKI",
+                "23": "CHAMP",
+                "113": "ITCHY"
               }
             },
-            "32": "ITCHY",
-            "41": "MICRO",
-            "113": "MOVIE",
-            "122": "IVORY",
+            "104": "COACH",
+            "113": {
+              "word": "SWOOP",
+              "scoreMap": {
+                "104": "SISSY",
+                "203": "SCOFF"
+              }
+            },
+            "122": {
+              "word": "SCOOP",
+              "scoreMap": {
+                "113": "CHIRP"
+              }
+            },
             "203": {
-              "word": "CHALK",
+              "word": "WHACK",
               "scoreMap": {
-                "203": "WHOLE"
+                "5": "SPOOF",
+                "23": "SWISH",
+                "203": "SHOOK",
+                "302": "ABACK"
               }
             },
-            "212": "CHURN"
+            "212": "SKIFF",
+            "221": "SKIMP",
+            "302": {
+              "word": "SPOOK",
+              "scoreMap": {
+                "302": "SHOCK"
+              }
+            },
+            "311": "SPIKY",
+            "401": "SPICY"
           }
         },
-        "23": {
-          "word": "LUNGE",
+        "14": {
+          "word": "SPILL",
           "scoreMap": {
-            "14": "CHAIN",
-            "113": "NICHE",
+            "5": "KNACK",
+            "14": {
+              "word": "CLACK",
+              "scoreMap": {
+                "203": "CHAIN",
+                "212": "FLAKY",
+                "401": "BLACK"
+              }
+            },
+            "23": {
+              "word": "CLAMP",
+              "scoreMap": {
+                "113": "PIANO",
+                "212": "PLAZA",
+                "311": "CLAIM"
+              }
+            },
+            "32": "PLAID",
+            "104": {
+              "word": "SWOON",
+              "scoreMap": {
+                "5": "CHALK",
+                "14": "KOALA",
+                "104": "SHUSH",
+                "221": "SNOWY"
+              }
+            },
+            "113": {
+              "word": "SNOOP",
+              "scoreMap": {
+                "5": "AVAIL",
+                "104": "SQUIB",
+                "203": "SLOSH"
+              }
+            },
             "122": {
-              "word": "GNOME",
+              "word": "SOLID",
               "scoreMap": {
-                "122": "NOBLE"
+                "113": "FLAIL",
+                "122": "SLOOP",
+                "212": "SILKY"
               }
             },
-            "131": "UNCLE",
             "203": {
-              "word": "MINCE",
+              "word": "COOLY",
               "scoreMap": {
-                "401": "WINCE"
+                "5": "SNIFF",
+                "14": "WHIRL",
+                "23": "SCION",
+                "104": "SHINY",
+                "113": "SPOON",
+                "122": "SCOWL",
+                "203": "SHYLY",
+                "212": "SCOLD"
               }
             },
-            "221": "BUGLE",
-            "302": "LODGE",
-            "311": {
-              "word": "BULGE",
+            "212": {
+              "word": "SLYLY",
               "scoreMap": {
-                "302": "NUDGE"
+                "203": "SLICK",
+                "302": "SLIMY"
+              }
+            },
+            "221": "SILLY",
+            "302": {
+              "word": "SPOOL",
+              "scoreMap": {
+                "203": "SPINY"
+              }
+            },
+            "311": "SPOIL",
+            "401": {
+              "word": "SWILL",
+              "scoreMap": {
+                "401": "SKILL"
               }
             }
           }
         },
-        "32": {
-          "word": "BINGE",
+        "23": {
+          "word": "FLASK",
           "scoreMap": {
-            "302": "LUNGE",
-            "401": "HINGE"
+            "5": {
+              "word": "MOURN",
+              "scoreMap": {
+                "302": "CHURN"
+              }
+            },
+            "14": {
+              "word": "SWING",
+              "scoreMap": {
+                "203": "SOUND"
+              }
+            },
+            "23": "SNUFF",
+            "32": "SKULL",
+            "104": {
+              "word": "GLORY",
+              "scoreMap": {
+                "14": "AGAIN",
+                "203": "BLURB"
+              }
+            },
+            "113": {
+              "word": "SLUMP",
+              "scoreMap": {
+                "203": "SKUNK"
+              }
+            },
+            "122": "SKULK",
+            "203": {
+              "word": "PLAIN",
+              "scoreMap": {
+                "104": "SLUSH",
+                "212": "BLAND"
+              }
+            },
+            "212": "SLINK",
+            "302": {
+              "word": "BACCA",
+              "scoreMap": {
+                "14": "PLANK",
+                "23": "CLANK",
+                "113": "BLANK"
+              }
+            },
+            "401": "FLANK"
+          }
+        },
+        "32": {
+          "word": "SLING",
+          "scoreMap": {
+            "212": "GLAND",
+            "302": "CLANG"
           }
         },
         "104": {
-          "word": "CHIDE",
+          "word": "CHIME",
           "scoreMap": {
-            "5": "FLAKY",
-            "14": "BLACK",
-            "104": {
-              "word": "CLAMP",
+            "5": {
+              "word": "SOGGY",
               "scoreMap": {
-                "104": "FLUKE",
-                "203": "FLUME",
-                "212": "PLUME"
+                "104": "FURRY",
+                "203": "LORRY"
               }
             },
-            "113": "SHOCK",
-            "203": {
-              "word": "CLOVE",
-              "scoreMap": {
-                "203": "PHONE"
-              }
-            },
-            "212": "VOICE",
-            "302": "CHIRP",
-            "401": "CHIME"
-          }
-        },
-        "113": {
-          "word": "AGILE",
-          "scoreMap": {
-            "5": "SNOWY",
             "14": {
-              "word": "SCOWL",
+              "word": "QUACK",
               "scoreMap": {
-                "113": "SULKY"
+                "104": "HURRY"
               }
             },
             "23": {
-              "word": "GLORY",
+              "word": "SUSHI",
               "scoreMap": {
-                "14": "PIANO"
+                "113": "SONIC"
               }
             },
-            "32": {
-              "word": "CLAIM",
+            "104": {
+              "word": "ABOIL",
               "scoreMap": {
-                "302": "PLAID"
+                "5": "CURRY",
+                "14": "QUIRK",
+                "23": "LLAMA",
+                "104": "EVOKE",
+                "113": "BOOZE"
               }
             },
-            "104": "SCOLD",
-            "113": "WHIRL",
+            "113": {
+              "word": "PIXIE",
+              "scoreMap": {
+                "203": "DIODE"
+              }
+            },
             "122": {
-              "word": "GLOBE",
+              "word": "PIECE",
               "scoreMap": {
-                "401": "GLOVE"
+                "113": "MOVIE",
+                "122": "EMCEE"
               }
             },
-            "203": "KNIFE",
-            "212": "GUIDE",
-            "302": "WHILE"
+            "203": {
+              "word": "OXIDE",
+              "scoreMap": {
+                "104": "FEMME"
+              }
+            },
+            "212": "VOICE",
+            "302": "CHOKE",
+            "401": "CHIDE"
+          }
+        },
+        "113": {
+          "word": "ELIDE",
+          "scoreMap": {
+            "5": "GUAVA",
+            "14": {
+              "word": "SULLY",
+              "scoreMap": {
+                "203": "QUALM",
+                "401": "SULKY"
+              }
+            },
+            "23": "QUAIL",
+            "104": {
+              "word": "PHONE",
+              "scoreMap": {
+                "122": "COUPE",
+                "302": "OZONE"
+              }
+            },
+            "113": {
+              "word": "WHOLE",
+              "scoreMap": {
+                "104": "PIQUE",
+                "113": "NICHE",
+                "203": "CYCLE"
+              }
+            },
+            "122": {
+              "word": "BIBLE",
+              "scoreMap": {
+                "104": "DEUCE",
+                "113": "MELEE",
+                "203": "NIECE",
+                "302": "BELLE"
+              }
+            },
+            "131": {
+              "word": "DELVE",
+              "scoreMap": {
+                "302": "BELIE"
+              }
+            },
+            "203": {
+              "word": "WHINE",
+              "scoreMap": {
+                "104": "CLOVE",
+                "212": "KNIFE"
+              }
+            },
+            "212": "WHILE",
+            "302": {
+              "word": "OLIVE",
+              "scoreMap": {
+                "212": "ELOPE"
+              }
+            },
+            "311": "EXILE"
           }
         },
         "122": {
-          "word": "SOLID",
+          "word": "FLONG",
           "scoreMap": {
-            "23": "GUILE",
-            "113": "PLAIN",
-            "212": "SILKY",
-            "221": "SPOIL",
-            "302": "SONIC"
+            "14": "UNDUE",
+            "23": "VOGUE",
+            "32": "NOBLE",
+            "104": {
+              "word": "PLUME",
+              "scoreMap": {
+                "302": "ELUDE"
+              }
+            },
+            "113": "GLIDE",
+            "122": "GNOME",
+            "203": {
+              "word": "FLUME",
+              "scoreMap": {
+                "401": "FLUKE"
+              }
+            },
+            "212": {
+              "word": "GLOVE",
+              "scoreMap": {
+                "401": "GLOBE"
+              }
+            },
+            "302": "CLONE"
           }
         },
+        "131": "UNCLE",
         "203": {
-          "word": "SPIKE",
+          "word": "GINCH",
           "scoreMap": {
-            "5": "BLAND",
+            "5": "QUEUE",
             "14": {
-              "word": "BACON",
+              "word": "WEDGE",
               "scoreMap": {
-                "23": "FLANK",
-                "32": "CLANK",
-                "122": "BLANK"
+                "302": "DODGE"
               }
             },
-            "23": "PLANK",
+            "23": "HEDGE",
             "104": {
-              "word": "CLONE",
+              "word": "SUNNY",
               "scoreMap": {
-                "113": "SOUND"
+                "203": "PENNE"
               }
             },
-            "113": "SLUMP",
+            "113": "JUICE",
             "203": {
-              "word": "OLIVE",
+              "word": "PENCE",
               "scoreMap": {
-                "203": "WHINE"
+                "401": "FENCE"
               }
             },
-            "221": "SKIMP",
-            "302": "SPICY",
-            "401": "SPIKY"
+            "212": "HENCE",
+            "302": {
+              "word": "WINCE",
+              "scoreMap": {
+                "401": "MINCE"
+              }
+            }
           }
         },
         "212": {
-          "word": "GLAND",
+          "word": "GOUGE",
           "scoreMap": {
-            "14": "SCION",
-            "212": "GLIDE"
+            "113": "VENUE",
+            "122": "FUGUE",
+            "203": "GENIE",
+            "212": "GUIDE"
+          }
+        },
+        "221": {
+          "word": "GUILE",
+          "scoreMap": {
+            "311": "BUGLE"
           }
         },
         "302": {
-          "word": "SHINY",
+          "word": "BURIN",
           "scoreMap": {
-            "104": "CLANG",
-            "203": "SLICK",
-            "302": "SLIMY",
-            "401": "SPINY"
+            "5": {
+              "word": "LODGE",
+              "scoreMap": {
+                "401": "LEDGE"
+              }
+            },
+            "14": "LIEGE",
+            "23": "HINGE",
+            "104": {
+              "word": "JUDGE",
+              "scoreMap": {
+                "401": "FUDGE"
+              }
+            },
+            "113": {
+              "word": "OUNCE",
+              "scoreMap": {
+                "401": "DUNCE"
+              }
+            },
+            "122": "BINGE",
+            "203": "BUDGE"
           }
         },
-        "401": {
-          "word": "SLINK",
+        "311": {
+          "word": "NUDGE",
           "scoreMap": {
-            "302": "SWING"
+            "302": "BULGE"
           }
         }
       }
     },
     "113": {
-      "word": "DRAIN",
+      "word": "CARLE",
       "scoreMap": {
         "5": {
           "word": "SHOUT",
           "scoreMap": {
-            "23": {
-              "word": "FLUTE",
-              "scoreMap": {
-                "122": "PULSE"
-              }
-            },
-            "32": "MOUSE",
-            "41": "HOUSE",
-            "104": "SPECK",
-            "113": {
-              "word": "CLOSE",
-              "scoreMap": {
-                "104": "THYME"
-              }
-            },
-            "122": "CHUTE",
+            "113": "SIXTY",
+            "122": "SIXTH",
             "140": "SOUTH",
-            "203": "SHELF",
-            "212": "WHOSE",
-            "221": "SLOTH",
-            "401": {
-              "word": "SCOUT",
+            "203": "SWIFT",
+            "212": {
+              "word": "SOOTY",
               "scoreMap": {
-                "401": "SPOUT"
+                "113": "SIGHT"
+              }
+            },
+            "221": "SOOTH",
+            "302": "SHIFT",
+            "311": "SHUNT",
+            "401": {
+              "word": "SPOUT",
+              "scoreMap": {
+                "302": "SHOOT",
+                "401": "SNOUT"
               }
             }
           }
         },
         "14": {
-          "word": "SCOUR",
+          "word": "SHEEN",
           "scoreMap": {
             "5": {
-              "word": "AMBLE",
+              "word": "AWAIT",
               "scoreMap": {
-                "104": "WHITE",
-                "131": "MAYBE",
-                "221": "MAPLE",
-                "311": "FABLE",
-                "401": "AMPLE"
+                "302": "ADAPT"
               }
             },
             "14": {
-              "word": "CABLE",
+              "word": "QUASI",
               "scoreMap": {
-                "104": "RHYME",
-                "113": "TWICE"
+                "23": "USURP",
+                "104": "TWANG",
+                "113": "GIANT",
+                "203": "AMASS"
               }
             },
             "23": {
-              "word": "FORGE",
+              "word": "QUASH",
               "scoreMap": {
-                "14": "BLURT",
-                "23": "CLERK",
-                "113": "GUISE",
-                "203": "POISE",
-                "302": "PURGE"
+                "302": "AWASH"
               }
             },
-            "32": {
-              "word": "CURVE",
-              "scoreMap": {
-                "212": "FORCE"
-              }
-            },
-            "41": "COURT",
+            "32": "GNASH",
             "104": {
-              "word": "GHOST",
+              "word": "SPLIT",
               "scoreMap": {
-                "5": "VALUE",
-                "14": "VAGUE",
-                "104": "ABOVE",
-                "113": "SWIFT",
-                "131": "SIGHT",
-                "212": "SHIFT"
+                "23": "THIRD",
+                "104": "SQUAD",
+                "113": "SIGMA",
+                "203": "SCOUT"
               }
             },
             "113": {
-              "word": "SALVO",
-              "scoreMap": {
-                "104": "SHUNT"
-              }
-            },
-            "122": {
-              "word": "ROGUE",
-              "scoreMap": {
-                "14": "SAUCY",
-                "23": "SURLY"
-              }
-            },
-            "203": "SHOAL",
-            "212": {
-              "word": "SHRUB",
-              "scoreMap": {
-                "302": "SYRUP",
-                "401": "SHRUG"
-              }
-            },
-            "302": "SNOUT",
-            "311": {
-              "word": "SCRUB",
-              "scoreMap": {
-                "401": "SCRUM"
-              }
-            }
-          }
-        },
-        "23": {
-          "word": "ABODE",
-          "scoreMap": {
-            "5": {
-              "word": "FLIRT",
-              "scoreMap": {
-                "221": "TWIRL"
-              }
-            },
-            "14": {
-              "word": "FIERY",
-              "scoreMap": {
-                "104": "SIGMA"
-              }
-            },
-            "23": {
-              "word": "SADLY",
-              "scoreMap": {
-                "113": "SPEND"
-              }
-            },
-            "32": "COBRA",
-            "104": {
-              "word": "TWINE",
-              "scoreMap": {
-                "113": "RIFLE",
-                "221": "UNITE"
-              }
-            },
-            "113": {
-              "word": "LANCE",
-              "scoreMap": {
-                "23": "FLORA",
-                "113": "NOISE",
-                "203": "WAIVE"
-              }
-            },
-            "122": "CANOE",
-            "131": "BADGE",
-            "203": {
-              "word": "ALIKE",
-              "scoreMap": {
-                "212": "ANGLE",
-                "221": "ANKLE",
-                "311": "AGILE",
-                "401": "ALIVE"
-              }
-            },
-            "212": "HORDE",
-            "302": "ALONE"
-          }
-        },
-        "32": {
-          "word": "THIRD",
-          "scoreMap": {
-            "14": "SANDY",
-            "32": "RIDGE",
-            "104": {
-              "word": "ANGRY",
-              "scoreMap": {
-                "23": "NAIVE"
-              }
-            },
-            "113": "ABIDE",
-            "203": "FAIRY",
-            "212": "HAIRY",
-            "302": "WEIRD"
-          }
-        },
-        "104": {
-          "word": "CLAMP",
-          "scoreMap": {
-            "5": {
-              "word": "BROKE",
-              "scoreMap": {
-                "23": "SHEIK",
-                "302": "GROVE"
-              }
-            },
-            "14": {
-              "word": "PROBE",
-              "scoreMap": {
-                "311": "GROPE",
-                "401": "PROVE"
-              }
-            },
-            "23": "SPLIT",
-            "104": "HEAVY",
-            "113": {
-              "word": "ABIDE",
-              "scoreMap": {
-                "14": "LOATH",
-                "23": "LEAKY",
-                "32": "BEACH"
-              }
-            },
-            "122": "PEACH",
-            "131": "PSALM",
-            "203": {
-              "word": "CHAOS",
-              "scoreMap": {
-                "113": "FLASK",
-                "122": "FLASH"
-              }
-            },
-            "212": "CHASM",
-            "302": "CLASH",
-            "401": "CLASP"
-          }
-        },
-        "113": {
-          "word": "TRIPE",
-          "scoreMap": {
-            "5": {
-              "word": "GNASH",
-              "scoreMap": {
-                "32": "SALON"
-              }
-            },
-            "14": {
-              "word": "BEADY",
-              "scoreMap": {
-                "104": "CHANT",
-                "401": "HEADY"
-              }
-            },
-            "23": {
-              "word": "DECRY",
-              "scoreMap": {
-                "5": "PLANT"
-              }
-            },
-            "32": "SPRIG",
-            "104": {
               "word": "THANK",
               "scoreMap": {
-                "302": "TWANG"
+                "23": "SLOTH"
               }
             },
-            "113": "THORN",
-            "122": "UNTIE",
-            "203": {
-              "word": "CRONE",
-              "scoreMap": {
-                "302": "CRUDE"
-              }
-            },
+            "203": "THORN",
             "212": {
-              "word": "PRONE",
+              "word": "SPEND",
               "scoreMap": {
-                "401": "PRUNE"
+                "212": "SEEDY"
               }
             },
             "302": {
-              "word": "CRIME",
+              "word": "SWEEP",
               "scoreMap": {
-                "401": "GRIME"
+                "203": "SHEIK",
+                "311": "SPEED"
               }
             },
             "311": {
-              "word": "PRICE",
+              "word": "SEVEN",
               "scoreMap": {
-                "401": "PRIME"
+                "401": "SEMEN"
               }
             },
-            "401": "GRIPE"
+            "401": "SHEEP"
           }
         },
-        "122": {
-          "word": "BEADY",
+        "23": {
+          "word": "DRAIN",
           "scoreMap": {
-            "14": "ACORN",
-            "23": "DIRGE",
-            "32": "DANCE",
-            "104": "GIANT",
-            "113": "PRIDE",
-            "212": "BRIDE"
-          }
-        },
-        "131": {
-          "word": "ADORN",
-          "scoreMap": {
-            "122": "DAIRY"
-          }
-        },
-        "203": {
-          "word": "BLACK",
-          "scoreMap": {
+            "5": {
+              "word": "SPECK",
+              "scoreMap": {
+                "212": "SLEEP",
+                "302": "SLEEK"
+              }
+            },
+            "14": {
+              "word": "QUERY",
+              "scoreMap": {
+                "5": "SHOAL",
+                "23": "SCOUR",
+                "113": "BLURT",
+                "302": "EVERY"
+              }
+            },
+            "23": {
+              "word": "TWIRL",
+              "scoreMap": {
+                "104": "AGORA",
+                "113": "FIERY",
+                "221": "FLIRT"
+              }
+            },
+            "32": {
+              "word": "WEIRD",
+              "scoreMap": {
+                "104": "ANGRY"
+              }
+            },
             "104": {
+              "word": "FLASK",
+              "scoreMap": {
+                "104": "HEAVY",
+                "113": "LOATH",
+                "302": "GLASS",
+                "401": "FLASH"
+              }
+            },
+            "113": {
+              "word": "HEADY",
+              "scoreMap": {
+                "14": "ATTIC",
+                "104": "PLANT",
+                "401": "BEADY"
+              }
+            },
+            "131": "ADORN",
+            "203": {
               "word": "GRAPH",
               "scoreMap": {
+                "203": "BRAVO",
                 "302": "GRAVY"
               }
             },
-            "113": "CRAMP",
-            "122": "CRAWL",
-            "203": "BRAVO",
-            "212": "BRAWL",
-            "302": "WRACK"
-          }
-        },
-        "212": {
-          "word": "FRANK",
-          "scoreMap": {
-            "104": "DRIVE",
-            "113": "CHAIR",
-            "203": "DRONE",
-            "212": "FLAIR",
-            "302": "FRAUD",
-            "401": {
-              "word": "CRANK",
+            "212": {
+              "word": "PRANK",
               "scoreMap": {
-                "401": "PRANK"
+                "203": "FRAUD",
+                "401": "FRANK"
+              }
+            },
+            "221": {
+              "word": "GRAND",
+              "scoreMap": {
+                "401": "BRAND"
+              }
+            },
+            "302": {
+              "word": "PRAWN",
+              "scoreMap": {
+                "203": "DRAMA"
+              }
+            },
+            "311": "BRAID",
+            "401": {
+              "word": "GRAIN",
+              "scoreMap": {
+                "302": "DRAWN",
+                "401": "BRAIN"
               }
             }
           }
         },
-        "221": {
-          "word": "BRAND",
+        "32": {
+          "word": "BRAWL",
           "scoreMap": {
-            "401": "GRAND"
-          }
-        },
-        "302": {
-          "word": "FRAIL",
-          "scoreMap": {
-            "203": "PRAWN",
-            "302": "DRAWL",
-            "401": "GRAIL"
-          }
-        },
-        "311": "BRAID",
-        "401": {
-          "word": "BRAIN",
-          "scoreMap": {
-            "302": "DRAWN",
-            "401": "GRAIN"
-          }
-        }
-      }
-    },
-    "122": {
-      "word": "ROUSE",
-      "scoreMap": {
-        "14": {
-          "word": "MEANT",
-          "scoreMap": {
-            "23": "SALTY",
-            "32": "SATIN",
-            "113": {
-              "word": "TRAIL",
+            "14": "DECRY",
+            "23": {
+              "word": "LEERY",
               "scoreMap": {
-                "212": "WRATH",
-                "302": "TRACK",
-                "401": "TRAWL"
+                "104": "ACORN"
+              }
+            },
+            "32": "FLORA",
+            "104": "PEACH",
+            "113": "LEAKY",
+            "122": "FLAIR",
+            "203": "BEACH",
+            "212": "WRACK",
+            "302": {
+              "word": "GRAIL",
+              "scoreMap": {
+                "401": "FRAIL"
+              }
+            },
+            "401": "DRAWL"
+          }
+        },
+        "104": {
+          "word": "UNITE",
+          "scoreMap": {
+            "5": {
+              "word": "APISH",
+              "scoreMap": {
+                "23": "SAVVY",
+                "32": "SAPPY",
+                "113": "SASSY"
+              }
+            },
+            "14": {
+              "word": "SPRIG",
+              "scoreMap": {
+                "104": "SANDY",
+                "203": "SHRUB",
+                "212": "SYRUP",
+                "302": "SHRUG"
+              }
+            },
+            "23": "SAUNA",
+            "104": {
+              "word": "BLOOM",
+              "scoreMap": {
+                "5": "GEESE",
+                "14": "POSSE",
+                "23": "OBESE",
+                "104": "WHOSE",
+                "113": "GOOSE",
+                "122": "MOOSE"
+              }
+            },
+            "113": {
+              "word": "HOMEY",
+              "scoreMap": {
+                "14": "DENSE",
+                "32": "THEME",
+                "41": "THYME",
+                "104": "TEPEE",
+                "113": "NOOSE",
+                "122": "MOUSE",
+                "212": "HOUSE"
               }
             },
             "122": {
-              "word": "TRAIN",
+              "word": "TITHE",
               "scoreMap": {
-                "302": "TRAMP"
+                "113": "ISSUE"
+              }
+            },
+            "203": "POISE",
+            "212": {
+              "word": "NOISE",
+              "scoreMap": {
+                "104": "BUTTE",
+                "113": "QUOTE",
+                "122": "ENSUE",
+                "302": "GUISE"
+              }
+            },
+            "221": "TWINE",
+            "302": "WHITE",
+            "311": "QUITE",
+            "320": "UNTIE"
+          }
+        },
+        "113": {
+          "word": "GRIPE",
+          "scoreMap": {
+            "5": {
+              "word": "LAZOS",
+              "scoreMap": {
+                "14": "CHANT",
+                "23": "CHASM",
+                "32": "ATOLL",
+                "113": "SAUCY",
+                "122": {
+                  "word": "SALSA",
+                  "scoreMap": {
+                    "311": "SALAD"
+                  }
+                },
+                "131": "SALVO",
+                "212": "CHAOS",
+                "221": "SALON"
+              }
+            },
+            "14": {
+              "word": "SMELL",
+              "scoreMap": {
+                "5": "COURT",
+                "104": "SCRUB",
+                "113": "SCRUM",
+                "122": "PSALM",
+                "302": "SHELF",
+                "401": {
+                  "word": "SWELL",
+                  "scoreMap": {
+                    "401": "SHELL"
+                  }
+                }
+              }
+            },
+            "23": {
+              "word": "BAFFY",
+              "scoreMap": {
+                "5": "SPELL",
+                "104": "MERRY",
+                "113": "FERRY",
+                "203": "BERRY"
+              }
+            },
+            "104": {
+              "word": "ABOVE",
+              "scoreMap": {
+                "104": "FLUTE",
+                "203": "LOOSE",
+                "401": "ABODE"
+              }
+            },
+            "113": {
+              "word": "DAHLS",
+              "scoreMap": {
+                "5": "REVUE",
+                "14": "RHYME",
+                "23": "PULSE",
+                "104": "FAIRY",
+                "113": "HAIRY",
+                "203": "DAIRY"
+              }
+            },
+            "122": {
+              "word": "RUPEE",
+              "scoreMap": {
+                "212": "ROGUE"
+              }
+            },
+            "131": "RIDGE",
+            "203": {
+              "word": "BREED",
+              "scoreMap": {
+                "14": "TWICE",
+                "23": "ELITE",
+                "32": "ABIDE",
+                "113": "FROZE",
+                "122": "DRONE",
+                "131": "ERODE",
+                "212": "BROKE"
+              }
+            },
+            "212": {
+              "word": "ABOVE",
+              "scoreMap": {
+                "104": "PRUNE",
+                "203": "PRONE",
+                "212": "PROBE",
+                "302": "PROVE"
+              }
+            },
+            "302": {
+              "word": "BRIDE",
+              "scoreMap": {
+                "203": "GROVE",
+                "311": "DRIVE",
+                "401": "BRIBE"
+              }
+            },
+            "311": {
+              "word": "ADOZE",
+              "scoreMap": {
+                "104": "PRIME",
+                "113": "PRIDE",
+                "203": "PRIZE"
+              }
+            },
+            "401": {
+              "word": "GROPE",
+              "scoreMap": {
+                "302": "GRIME"
+              }
+            }
+          }
+        },
+        "122": {
+          "word": "PRICK",
+          "scoreMap": {
+            "5": {
+              "word": "ALONE",
+              "scoreMap": {
+                "302": "ALGAE"
+              }
+            },
+            "14": {
+              "word": "CLASS",
+              "scoreMap": {
+                "401": "CLASH"
+              }
+            },
+            "23": {
+              "word": "COBRA",
+              "scoreMap": {
+                "113": "CLASP"
+              }
+            },
+            "32": "CHAIR",
+            "104": "ALIVE",
+            "113": {
+              "word": "CRAZY",
+              "scoreMap": {
+                "14": "ALIKE"
+              }
+            },
+            "122": "CRAMP",
+            "212": "CRANK",
+            "302": "CRACK",
+            "401": "PRICE"
+          }
+        },
+        "131": {
+          "word": "CRAWL",
+          "scoreMap": {
+            "122": "CLERK"
+          }
+        },
+        "203": {
+          "word": "ROUGE",
+          "scoreMap": {
+            "5": {
+              "word": "SALLY",
+              "scoreMap": {
+                "401": "SADLY"
+              }
+            },
+            "14": {
+              "word": "HAEMS",
+              "scoreMap": {
+                "104": "PARRY",
+                "113": "MARRY",
+                "203": "HARRY"
+              }
+            },
+            "23": "SURLY",
+            "104": {
+              "word": "GIVEN",
+              "scoreMap": {
+                "14": "MAYBE",
+                "23": "MAIZE",
+                "32": "WAIVE",
+                "41": "NAIVE",
+                "104": "PAYEE",
+                "113": "TITLE"
+              }
+            },
+            "113": {
+              "word": "ABRIN",
+              "scoreMap": {
+                "5": "TULLE",
+                "14": "GAFFE",
+                "104": "VERVE",
+                "113": "NERVE",
+                "203": "EERIE"
+              }
+            },
+            "122": {
+              "word": "VAGUE",
+              "scoreMap": {
+                "113": "PUREE"
               }
             },
             "203": {
+              "word": "CHUTE",
+              "scoreMap": {
+                "104": "BADGE"
+              }
+            },
+            "212": {
+              "word": "VERGE",
+              "scoreMap": {
+                "113": "GAUZE",
+                "203": "HORDE",
+                "302": "DIRGE",
+                "401": "MERGE"
+              }
+            },
+            "221": "PURGE",
+            "302": "GAUGE",
+            "311": {
+              "word": "GORGE",
+              "scoreMap": {
+                "401": "FORGE"
+              }
+            }
+          }
+        },
+        "212": {
+          "word": "CRIMP",
+          "scoreMap": {
+            "5": {
+              "word": "ADUKI",
+              "scoreMap": {
+                "14": "VALVE",
+                "23": "VALUE",
+                "104": "ANGLE",
+                "113": "ANKLE"
+              }
+            },
+            "14": {
+              "word": "APPLE",
+              "scoreMap": {
+                "113": "DANCE",
+                "302": "AMBLE"
+              }
+            },
+            "23": {
+              "word": "RIFLE",
+              "scoreMap": {
+                "122": "FORCE",
+                "203": "AMPLE"
+              }
+            },
+            "104": {
+              "word": "CLOSE",
+              "scoreMap": {
+                "113": "AGILE"
+              }
+            },
+            "203": {
+              "word": "CRUDE",
+              "scoreMap": {
+                "302": "CRONE"
+              }
+            },
+            "212": "CREPE",
+            "302": "CREME",
+            "401": "CRIME"
+          }
+        },
+        "221": "LANCE",
+        "302": {
+          "word": "ALBEE",
+          "scoreMap": {
+            "14": "CARRY",
+            "104": "CURVE",
+            "113": {
+              "word": "CANOE",
+              "scoreMap": {
+                "302": "CACHE"
+              }
+            },
+            "122": {
+              "word": "MAPLE",
+              "scoreMap": {
+                "302": "LADLE"
+              }
+            },
+            "131": "EAGLE",
+            "221": "FABLE"
+          }
+        },
+        "401": "CABLE"
+      }
+    },
+    "122": {
+      "word": "REUSE",
+      "scoreMap": {
+        "14": {
+          "word": "TRAIN",
+          "scoreMap": {
+            "23": "SALTY",
+            "32": "ABORT",
+            "41": "SAINT",
+            "113": {
+              "word": "EXALT",
+              "scoreMap": {
+                "401": "EXACT"
+              }
+            },
+            "122": "ENACT",
+            "212": {
               "word": "CADET",
               "scoreMap": {
+                "23": "WRATH",
                 "113": "GRAFT",
                 "122": "DRAFT",
                 "212": "CRAFT"
               }
             },
-            "212": {
-              "word": "DEATH",
+            "221": {
+              "word": "SATIN",
               "scoreMap": {
-                "23": "SAINT",
-                "311": "TEACH"
+                "32": "GRANT"
               }
             },
-            "221": "ENACT",
             "302": {
-              "word": "DEALT",
+              "word": "ALACK",
               "scoreMap": {
-                "203": "GRANT"
+                "104": "TRAMP",
+                "113": "TRAWL",
+                "203": "TRACT",
+                "302": "TRACK"
               }
             },
-            "311": "MEATY"
+            "401": {
+              "word": "TRAIT",
+              "scoreMap": {
+                "401": "TRAIL"
+              }
+            }
           }
         },
         "23": {
-          "word": "INEPT",
+          "word": "OVARY",
           "scoreMap": {
-            "5": "SCRAM",
+            "5": "SCENT",
             "14": {
-              "word": "SCRAP",
+              "word": "SPEAK",
               "scoreMap": {
-                "311": "SPRAY"
+                "23": "ETHOS",
+                "401": "SNEAK"
               }
             },
-            "23": "SEDAN",
-            "32": "SEPIA",
-            "104": "ABORT",
-            "113": "SPEAK",
-            "122": "ENTRY",
-            "203": "SNEAK",
-            "212": "SCENT",
-            "401": "INERT"
+            "23": {
+              "word": "SCRAP",
+              "scoreMap": {
+                "401": "SCRAM"
+              }
+            },
+            "32": {
+              "word": "SONAR",
+              "scoreMap": {
+                "401": "SOLAR"
+              }
+            },
+            "104": "INERT",
+            "113": {
+              "word": "OTTER",
+              "scoreMap": {
+                "401": "OTHER"
+              }
+            },
+            "122": "SPRAY",
+            "203": "ENTRY",
+            "212": "OPERA",
+            "302": "OVERT"
           }
         },
         "32": {
-          "word": "OTHER",
+          "word": "SHEWN",
           "scoreMap": {
-            "23": "SETUP",
-            "41": "METRO",
-            "104": "SUGAR",
-            "113": {
-              "word": "SCREW",
+            "14": "UTTER",
+            "23": "ETHER",
+            "104": {
+              "word": "SUGAR",
               "scoreMap": {
-                "302": "SIREN"
+                "14": "EXERT"
               }
             },
-            "122": "OPERA",
-            "131": "OVERT",
-            "203": "SKIER",
-            "221": "ETHOS"
+            "113": {
+              "word": "SOBER",
+              "scoreMap": {
+                "302": "SKIER"
+              }
+            },
+            "122": {
+              "word": "SOWER",
+              "scoreMap": {
+                "221": "SCREW"
+              }
+            },
+            "203": "SLEET",
+            "212": {
+              "word": "SWEET",
+              "scoreMap": {
+                "203": "SIREN"
+              }
+            },
+            "302": "SHEET"
           }
         },
         "41": {
-          "word": "SERUM",
+          "word": "AHEAP",
           "scoreMap": {
-            "131": "SUPER"
+            "14": "SURER",
+            "23": "SUPER",
+            "104": "SNEER",
+            "203": "SHEER"
           }
         },
         "104": {
-          "word": "BATHE",
+          "word": "BELCH",
           "scoreMap": {
-            "122": "BLAST",
-            "221": "TABLE"
+            "5": "TOAST",
+            "14": "COAST",
+            "23": "LATTE",
+            "32": "TABLE",
+            "104": {
+              "word": "MEATY",
+              "scoreMap": {
+                "113": "BOAST",
+                "311": "MEANT"
+              }
+            },
+            "113": {
+              "word": "DEALT",
+              "scoreMap": {
+                "212": "BLAST"
+              }
+            },
+            "122": "BATHE",
+            "203": {
+              "word": "HEATH",
+              "scoreMap": {
+                "401": "DEATH"
+              }
+            },
+            "302": "TEACH"
           }
         },
         "113": {
-          "word": "CLASH",
+          "word": "GRIPE",
           "scoreMap": {
-            "5": {
-              "word": "TRIBE",
+            "5": "SQUAT",
+            "14": "SEDAN",
+            "23": {
+              "word": "ZEBRA",
               "scoreMap": {
-                "311": "WRITE",
-                "401": "TRIPE"
+                "203": "METRO"
               }
             },
-            "14": "BARGE",
-            "23": {
+            "32": "SEPIA",
+            "104": {
+              "word": "ABASH",
+              "scoreMap": {
+                "203": "CRASS",
+                "212": "BRASS",
+                "302": "CRASH",
+                "311": "BRASH"
+              }
+            },
+            "113": {
               "word": "FARCE",
               "scoreMap": {
-                "113": "ASIDE",
-                "302": "LARGE"
+                "113": "AISLE",
+                "311": "CARVE"
               }
             },
-            "32": "AISLE",
-            "104": "READY",
-            "113": {
-              "word": "CARVE",
+            "122": {
+              "word": "LARGE",
               "scoreMap": {
-                "32": "REALM"
+                "401": "BARGE"
               }
             },
-            "203": "GRASP",
-            "212": "REACH",
-            "302": "BRASH",
-            "311": "LEASH",
-            "401": "CRASH"
+            "203": {
+              "word": "GRASS",
+              "scoreMap": {
+                "23": "ASIDE",
+                "104": "TROVE"
+              }
+            },
+            "212": "GRASP",
+            "302": {
+              "word": "WRITE",
+              "scoreMap": {
+                "212": "TROPE",
+                "311": "TRIBE",
+                "401": "TRITE"
+              }
+            },
+            "401": "TRIPE"
           }
         },
         "122": {
-          "word": "AMPLE",
+          "word": "THREE",
           "scoreMap": {
-            "14": "SONAR",
-            "23": "SOLAR",
-            "104": "TROVE",
-            "113": "TROPE",
-            "203": "ARGUE"
+            "23": "SETUP",
+            "113": "ARGUE",
+            "302": "AGREE"
           }
         },
         "131": {
-          "word": "SOBER",
+          "word": "SEWER",
           "scoreMap": {
-            "401": "SOWER"
+            "212": "SERUM",
+            "401": "SEVER"
           }
         },
         "203": {
-          "word": "CLASP",
+          "word": "HALSE",
           "scoreMap": {
-            "14": "RANGE",
-            "23": "ACUTE",
-            "122": "FALSE",
-            "131": "LAPSE",
-            "203": "BOAST",
-            "302": "COAST"
+            "14": {
+              "word": "RETRY",
+              "scoreMap": {
+                "401": "RETRO"
+              }
+            },
+            "23": "READY",
+            "32": {
+              "word": "REALM",
+              "scoreMap": {
+                "302": "REACH"
+              }
+            },
+            "113": "ACUTE",
+            "140": "LEASH",
+            "203": "RANGE",
+            "212": "THOSE",
+            "302": "MASSE",
+            "311": "LAPSE",
+            "401": "FALSE"
           }
         },
         "212": {
-          "word": "BRUTE",
+          "word": "BHAIS",
           "scoreMap": {
-            "113": "THOSE",
-            "311": "TRUCE"
+            "5": "TRUCE",
+            "14": "WORSE",
+            "23": "HORSE",
+            "104": "BRUTE",
+            "113": "THESE"
           }
         },
         "221": {
@@ -2138,265 +3869,390 @@
           }
         },
         "302": {
-          "word": "AMPLE",
+          "word": "ABACS",
           "scoreMap": {
-            "104": "RINSE",
-            "113": "CAUSE",
-            "122": "PAUSE",
-            "203": "ABUSE",
-            "302": "AMUSE"
+            "5": "ROUTE",
+            "14": {
+              "word": "TENSE",
+              "scoreMap": {
+                "302": "RINSE"
+              }
+            },
+            "23": "PAUSE",
+            "32": "CAUSE",
+            "113": "AMUSE",
+            "212": "ABUSE"
           }
         },
-        "311": {
-          "word": "HORSE",
-          "scoreMap": {
-            "401": "WORSE"
-          }
-        },
-        "401": "ROUTE"
+        "311": "VERSE",
+        "401": "ROUSE"
       }
     },
     "131": {
-      "word": "WHEAT",
+      "word": "PEASE",
       "scoreMap": {
         "23": {
-          "word": "ARISE",
+          "word": "AVERT",
           "scoreMap": {
-            "41": "SAFER",
-            "221": "PARSE",
-            "320": "RAISE"
+            "131": "EXTRA",
+            "401": "ALERT"
           }
         },
         "32": {
-          "word": "CASTE",
+          "word": "IHRAM",
           "scoreMap": {
-            "32": "TRASH",
-            "401": "PASTE"
+            "23": "SAFER",
+            "104": "SWEAT",
+            "113": "SWEAR",
+            "122": "SMEAR",
+            "212": "SHEAR"
           }
         },
-        "41": "HASTE",
-        "113": "ROAST",
+        "41": "SPEAR",
+        "113": "TERRA",
         "122": {
-          "word": "BASIL",
+          "word": "CACHE",
           "scoreMap": {
-            "14": "REACT",
-            "23": {
-              "word": "FEAST",
+            "203": {
+              "word": "WASTE",
               "scoreMap": {
-                "401": "YEAST"
+                "401": "TASTE"
               }
             },
-            "32": "LEAST",
-            "122": "BEAST"
+            "212": "HASTE",
+            "302": "CASTE"
           }
         },
-        "131": "WASTE",
         "203": {
-          "word": "SMEAR",
+          "word": "TRASH",
           "scoreMap": {
-            "401": "SPEAR"
+            "122": "REACT",
+            "221": "ROAST"
           }
         },
         "212": {
-          "word": "ALERT",
+          "word": "RAISE",
           "scoreMap": {
-            "122": "SWEAR",
-            "401": "AVERT"
+            "320": "ARISE"
           }
         },
-        "302": "SHEAR",
-        "311": "SWEAT"
+        "221": "PASTE",
+        "302": {
+          "word": "BAALS",
+          "scoreMap": {
+            "14": "TERSE",
+            "113": {
+              "word": "YEAST",
+              "scoreMap": {
+                "401": "FEAST"
+              }
+            },
+            "122": "LEAST",
+            "212": "BEAST"
+          }
+        },
+        "311": "PARSE"
       }
     },
     "203": {
-      "word": "CLOSE",
+      "word": "SPIEL",
       "scoreMap": {
         "5": {
-          "word": "DIARY",
+          "word": "BOWED",
           "scoreMap": {
-            "212": "GUARD",
-            "302": "DWARF"
+            "5": {
+              "word": "QUARK",
+              "scoreMap": {
+                "203": "CHARM"
+              }
+            },
+            "14": "OVARY",
+            "23": "DWARF",
+            "104": "GUARD",
+            "113": "AWARD",
+            "203": "HOARD",
+            "302": "BOARD"
           }
         },
         "14": {
-          "word": "PLUNK",
+          "word": "HEAVY",
           "scoreMap": {
-            "5": {
-              "word": "BOARD",
+            "14": "ETUDE",
+            "23": {
+              "word": "WHERE",
               "scoreMap": {
-                "113": "SHADY",
-                "212": "OVARY",
-                "401": "HOARD"
+                "302": "CHORE"
               }
             },
-            "14": {
-              "word": "SHAKY",
-              "scoreMap": {
-                "203": "SWAMP"
-              }
-            },
-            "23": "SPAWN",
             "104": {
-              "word": "SHIRK",
+              "word": "GENRE",
               "scoreMap": {
-                "104": "STUDY",
-                "203": "STING",
-                "401": "SMIRK"
+                "104": "ALARM"
               }
             },
-            "113": "STUMP",
-            "122": "SPURN",
-            "203": {
-              "word": "SHANK",
-              "scoreMap": {
-                "302": "STINK"
-              }
-            },
-            "212": "SPANK",
-            "302": "STUNK"
-          }
-        },
-        "23": {
-          "word": "CHAMP",
-          "scoreMap": {
-            "5": "SWIRL",
-            "14": {
-              "word": "STICK",
-              "scoreMap": {
-                "401": "STUCK"
-              }
-            },
-            "104": "SNAIL",
             "113": {
-              "word": "SNACK",
+              "word": "ADAWS",
               "scoreMap": {
-                "203": "SOAPY"
-              }
-            },
-            "122": "SMACK",
-            "203": "SHAWL",
-            "212": "SHACK",
-            "311": "SCAMP"
-          }
-        },
-        "32": {
-          "word": "BADLY",
-          "scoreMap": {
-            "113": "SCALP",
-            "122": "SCALD",
-            "212": "SCALY"
-          }
-        },
-        "104": {
-          "word": "CHARM",
-          "scoreMap": {
-            "104": "KNAVE",
-            "113": "IMAGE"
-          }
-        },
-        "113": {
-          "word": "POINT",
-          "scoreMap": {
-            "5": "WHALE",
-            "14": {
-              "word": "SLURP",
-              "scoreMap": {
-                "203": "SWORD"
-              }
-            },
-            "23": "SINGE",
-            "32": "STOMP",
-            "104": "SLANG",
-            "113": {
-              "word": "SNIDE",
-              "scoreMap": {
-                "302": "SPIKE"
+                "104": "QUAKE",
+                "203": "AMAZE",
+                "212": "AWAKE",
+                "302": "ADAGE"
               }
             },
             "122": {
-              "word": "SNIPE",
+              "word": "EVADE",
               "scoreMap": {
-                "113": "STONY"
+                "203": "CHAFE"
               }
             },
-            "203": {
-              "word": "SHINE",
+            "203": "DIARY",
+            "212": "KNAVE",
+            "302": "WEAVE",
+            "401": "HEAVE"
+          }
+        },
+        "23": {
+          "word": "BLEED",
+          "scoreMap": {
+            "14": {
+              "word": "INANE",
               "scoreMap": {
-                "401": "SWINE"
+                "203": "AGAPE",
+                "302": "IMAGE"
               }
             },
-            "212": "SPINE"
+            "23": {
+              "word": "WHALE",
+              "scoreMap": {
+                "203": "PEACE"
+              }
+            },
+            "32": "LEAVE",
+            "113": {
+              "word": "FLAME",
+              "scoreMap": {
+                "302": "GLAZE",
+                "401": "FLAKE"
+              }
+            },
+            "122": "GLADE",
+            "212": {
+              "word": "BLAZE",
+              "scoreMap": {
+                "401": "BLAME"
+              }
+            },
+            "221": "BLADE"
+          }
+        },
+        "32": {
+          "word": "PLANE",
+          "scoreMap": {
+            "401": "PLACE"
+          }
+        },
+        "104": {
+          "word": "TOUSY",
+          "scoreMap": {
+            "14": {
+              "word": "SHANK",
+              "scoreMap": {
+                "302": "SMACK",
+                "311": "SNACK",
+                "401": "SHACK"
+              }
+            },
+            "23": {
+              "word": "SWORD",
+              "scoreMap": {
+                "302": "SCORN"
+              }
+            },
+            "32": {
+              "word": "STOOD",
+              "scoreMap": {
+                "302": "STOCK"
+              }
+            },
+            "41": "STOUT",
+            "104": {
+              "word": "SWASH",
+              "scoreMap": {
+                "401": "SMASH"
+              }
+            },
+            "113": {
+              "word": "SHAKY",
+              "scoreMap": {
+                "401": "SHADY"
+              }
+            },
+            "122": {
+              "word": "AKENE",
+              "scoreMap": {
+                "5": "STUFF",
+                "14": "STUCK",
+                "104": "STUNT",
+                "113": "STUNK"
+              }
+            },
+            "131": "STONY",
+            "212": "SORRY",
+            "221": "STUDY"
+          }
+        },
+        "113": {
+          "word": "CLAST",
+          "scoreMap": {
+            "14": {
+              "word": "SMOKE",
+              "scoreMap": {
+                "203": "SEGUE",
+                "302": "SHOVE"
+              }
+            },
+            "23": {
+              "word": "STUMP",
+              "scoreMap": {
+                "104": "SCENE",
+                "302": "STOOP",
+                "401": "STOMP"
+              }
+            },
+            "32": "STOIC",
+            "104": "SENSE",
+            "113": {
+              "word": "SWAMP",
+              "scoreMap": {
+                "212": "SOAPY"
+              }
+            },
+            "122": "SCAMP",
+            "131": {
+              "word": "SCALY",
+              "scoreMap": {
+                "401": "SCALD"
+              }
+            },
+            "212": "SLANG",
+            "221": "SLACK",
+            "302": "SLASH"
           }
         },
         "122": {
-          "word": "LANCE",
+          "word": "SINCE",
           "scoreMap": {
-            "14": "STOIC",
-            "23": "SCORN",
-            "104": "STOCK",
-            "113": "SMILE",
-            "122": "SLACK",
-            "203": "SPICE",
-            "302": "SINCE"
+            "104": "SLURP",
+            "113": "SCALP",
+            "203": "SOLVE",
+            "212": "SCOPE",
+            "302": {
+              "word": "SIEVE",
+              "scoreMap": {
+                "401": "SIEGE"
+              }
+            },
+            "401": "SINGE"
           }
         },
-        "131": "SOLVE",
+        "131": "SLOPE",
         "203": {
-          "word": "BLAND",
+          "word": "HAICK",
           "scoreMap": {
-            "104": "CHAFE",
+            "5": {
+              "word": "STOOL",
+              "scoreMap": {
+                "104": "SPURN"
+              }
+            },
+            "14": {
+              "word": "SPAWN",
+              "scoreMap": {
+                "203": "SMALL",
+                "302": "SPASM"
+              }
+            },
+            "23": {
+              "word": "SHAWL",
+              "scoreMap": {
+                "401": "SHALL"
+              }
+            },
+            "104": {
+              "word": "STINT",
+              "scoreMap": {
+                "302": "STIFF",
+                "401": "STING"
+              }
+            },
+            "113": "SPANK",
             "203": {
-              "word": "FLAKE",
+              "word": "STINK",
               "scoreMap": {
-                "401": "FLAME"
+                "302": "SMIRK"
               }
             },
-            "212": "GLADE",
-            "302": {
-              "word": "BLAME",
-              "scoreMap": {
-                "302": "PLANE"
-              }
-            },
-            "311": "BLADE"
+            "212": "SHIRK",
+            "302": "STICK"
           }
         },
         "212": {
-          "word": "SMOKE",
+          "word": "SWINE",
           "scoreMap": {
-            "104": "PLACE",
-            "203": "SLIDE",
-            "212": "SLIME",
-            "302": "SHOVE"
+            "122": "SNAIL",
+            "203": "STILT",
+            "302": "SEIZE",
+            "311": "SNIDE",
+            "401": "SHINE"
           }
         },
         "221": {
-          "word": "SCOPE",
+          "word": "CLADE",
           "scoreMap": {
-            "212": "SLICE"
+            "104": "SNIPE",
+            "113": "SMILE",
+            "203": "SLIME",
+            "212": "SLICE",
+            "302": "SLIDE"
           }
         },
-        "302": "CHORE",
-        "311": "SLOPE"
+        "302": {
+          "word": "SWIRL",
+          "scoreMap": {
+            "302": "STILL"
+          }
+        },
+        "311": {
+          "word": "ABACK",
+          "scoreMap": {
+            "5": "SPINE",
+            "14": "SPIKE",
+            "104": "SPICE"
+          }
+        }
       }
     },
     "212": {
       "word": "DRAPE",
       "scoreMap": {
         "14": {
-          "word": "BLINK",
+          "word": "CHIRK",
           "scoreMap": {
-            "5": "SHORT",
-            "14": "SNORT",
-            "104": "SHIRT",
-            "113": "SKIRT"
+            "5": "STEEL",
+            "14": "STRUT",
+            "104": "SNORT",
+            "203": "SHORT",
+            "212": "SKIRT",
+            "302": "SHIRT"
           }
         },
         "23": {
-          "word": "SPORT",
+          "word": "SPURT",
           "scoreMap": {
+            "113": "STEED",
+            "122": "STEEP",
             "131": "STRIP",
-            "401": "SPURT"
+            "401": "SPORT"
           }
         },
         "104": {
@@ -2410,239 +4266,293 @@
           }
         },
         "113": {
-          "word": "SAUCE",
+          "word": "SCREE",
           "scoreMap": {
+            "14": {
+              "word": "TIARA",
+              "scoreMap": {
+                "212": "QUART"
+              }
+            },
             "23": "CHART",
-            "113": "ATONE",
-            "203": "SPITE",
-            "212": "SURGE",
-            "302": "SALVE"
+            "104": "ATONE",
+            "122": "THERE",
+            "203": {
+              "word": "SPITE",
+              "scoreMap": {
+                "203": "SALVE"
+              }
+            },
+            "212": "SAUCE",
+            "302": "SURGE",
+            "311": "SERVE"
           }
         },
         "122": {
-          "word": "LEARN",
+          "word": "YEARN",
           "scoreMap": {
-            "302": "WEARY",
-            "401": "YEARN"
+            "23": "SPREE",
+            "122": "AZURE",
+            "203": "APART",
+            "302": "REARM",
+            "311": "WEARY",
+            "401": "LEARN"
           }
         },
         "131": {
-          "word": "BEARD",
+          "word": "HEARD",
           "scoreMap": {
             "131": "ADORE",
             "302": "PEARL",
-            "401": "HEARD"
+            "401": "BEARD"
           }
         },
         "203": {
-          "word": "CHASE",
+          "word": "LEASE",
           "scoreMap": {
-            "212": "USAGE"
+            "203": {
+              "word": "AGATE",
+              "scoreMap": {
+                "401": "ABATE"
+              }
+            },
+            "212": "USAGE",
+            "221": "ELATE",
+            "302": {
+              "word": "CHASE",
+              "scoreMap": {
+                "302": "ABASE"
+              }
+            },
+            "401": "CEASE"
           }
         },
         "212": {
-          "word": "PHASE",
+          "word": "PLATE",
           "scoreMap": {
-            "302": "PLATE"
+            "302": "PHASE"
           }
         },
         "302": {
-          "word": "BACON",
+          "word": "BANCO",
           "scoreMap": {
             "14": {
-              "word": "FRAME",
+              "word": "GRAZE",
               "scoreMap": {
-                "302": "GRAVE"
+                "302": "FRAME",
+                "401": "GRAVE"
               }
             },
             "23": {
-              "word": "CRAVE",
+              "word": "CRAZE",
               "scoreMap": {
-                "311": "GRACE"
+                "401": "CRAVE"
               }
             },
             "32": "CRANE",
             "113": {
-              "word": "BRAKE",
+              "word": "BRAVE",
               "scoreMap": {
-                "401": "BRAVE"
+                "302": "GRACE",
+                "401": "BRAKE"
               }
             },
-            "122": "BRACE"
+            "212": "BRACE"
           }
         },
         "311": "GRADE",
         "401": {
-          "word": "DRAKE",
+          "word": "GRAPE",
           "scoreMap": {
-            "302": "GRAPE"
+            "302": "DRAKE"
           }
         }
       }
     },
     "221": {
-      "word": "CRAWL",
+      "word": "PRATY",
       "scoreMap": {
-        "14": {
-          "word": "STEAK",
-          "scoreMap": {
-            "401": "STEAM"
-          }
-        },
         "23": {
-          "word": "STRAP",
+          "word": "ALACK",
           "scoreMap": {
-            "401": "STRAY"
+            "5": "STEER",
+            "14": "STEAM",
+            "23": "STEAL",
+            "113": "STEAK"
           }
         },
         "32": "STRAW",
-        "113": {
-          "word": "HEART",
+        "41": "STRAP",
+        "113": "TEASE",
+        "122": "HEART",
+        "131": "STRAY",
+        "203": "ERASE",
+        "212": {
+          "word": "TRADE",
           "scoreMap": {
-            "32": "STEAL"
+            "401": "TRACE"
           }
         },
-        "203": {
-          "word": "GRATE",
+        "302": {
+          "word": "CABIN",
           "scoreMap": {
-            "311": "TRADE",
-            "401": "IRATE"
+            "14": "GRATE",
+            "23": "IRATE",
+            "113": "CRATE"
           }
-        },
-        "212": "TRACE",
-        "302": "CRATE"
+        }
       }
     },
     "302": {
-      "word": "PROVE",
+      "word": "PROKE",
       "scoreMap": {
         "5": {
-          "word": "BLIND",
+          "word": "ADHAN",
           "scoreMap": {
-            "5": "STACK",
-            "14": "STALK",
-            "23": "STAIN",
-            "203": "STAND"
+            "14": {
+              "word": "STALL",
+              "scoreMap": {
+                "302": "STAFF"
+              }
+            },
+            "23": "STASH",
+            "32": "STAND",
+            "113": "STAIN"
           }
         },
         "14": {
-          "word": "CHORD",
+          "word": "CHARY",
           "scoreMap": {
-            "5": "STAMP",
             "104": {
-              "word": "SNARL",
+              "word": "STAMP",
               "scoreMap": {
-                "302": "SWARM"
+                "302": "STALK"
               }
             },
-            "113": {
-              "word": "SCARF",
+            "113": "STACK",
+            "203": {
+              "word": "SWARM",
               "scoreMap": {
-                "401": "SCARY"
+                "302": "SNARL"
               }
             },
-            "203": "SHARK",
-            "302": "SHARD"
+            "212": "SCARF",
+            "302": "SHARD",
+            "311": "SCARY"
           }
         },
         "23": {
           "word": "SHARP",
           "scoreMap": {
-            "311": "SPARK"
+            "401": "SHARK"
           }
         },
+        "32": "SPARK",
         "104": {
-          "word": "ANKLE",
+          "word": "ACHED",
           "scoreMap": {
-            "113": {
-              "word": "SHADE",
+            "14": "STYLE",
+            "23": "SUAVE",
+            "32": {
+              "word": "SHAVE",
               "scoreMap": {
                 "401": "SHAME"
               }
             },
-            "122": "SHAKE",
-            "203": "STYLE",
-            "212": "SCALE",
-            "221": "SNAKE"
+            "41": "SHADE",
+            "122": "SCALE"
           }
         },
         "113": {
-          "word": "CHAMP",
+          "word": "ACERB",
           "scoreMap": {
-            "5": {
-              "word": "STORK",
+            "23": {
+              "word": "SPADE",
               "scoreMap": {
-                "401": "STORY"
+                "311": "SHAPE"
               }
             },
-            "14": "STORM",
+            "32": "SPACE",
             "104": {
-              "word": "BADGE",
+              "word": "STORY",
               "scoreMap": {
-                "113": "FLARE",
-                "122": "GLARE",
-                "212": "BLARE"
+                "401": "STORM"
               }
             },
-            "113": "SPADE",
-            "122": "SPACE",
-            "212": "SHAPE"
+            "122": {
+              "word": "GLARE",
+              "scoreMap": {
+                "401": "FLARE"
+              }
+            },
+            "131": "BLARE",
+            "212": "AWARE"
           }
         },
-        "122": "SPIRE",
-        "203": {
-          "word": "CHAIN",
+        "122": {
+          "word": "STORK",
           "scoreMap": {
-            "5": "STOKE",
-            "14": "STONE",
-            "104": "SUAVE",
-            "203": "SHAVE"
+            "203": "SPIRE"
+          }
+        },
+        "203": {
+          "word": "STONE",
+          "scoreMap": {
+            "203": "SHAKE",
+            "212": "SNAKE",
+            "401": "STOVE"
           }
         },
         "212": {
-          "word": "ACORN",
+          "word": "ACHAR",
           "scoreMap": {
-            "203": "SHORE",
-            "212": "SNORE",
-            "302": "SCORE"
+            "14": "SNORE",
+            "23": "SHORE",
+            "113": "SCORE"
           }
         },
         "221": "SPORE",
-        "302": "STOVE"
+        "302": "STOKE"
       }
     },
     "311": {
-      "word": "BLAME",
+      "word": "AKITA",
       "scoreMap": {
         "14": "STERN",
-        "104": "STAIR",
-        "113": "SMART",
-        "203": "SKATE",
-        "302": "SLATE"
+        "23": "SMART",
+        "32": "STAIR",
+        "113": "SLATE",
+        "212": "SKATE"
       }
     },
     "401": {
-      "word": "PROVE",
+      "word": "PROKE",
       "scoreMap": {
-        "14": "STARK",
+        "14": "START",
+        "23": "STARK",
         "104": {
-          "word": "AGILE",
+          "word": "AGATE",
           "scoreMap": {
-            "113": "STAKE",
-            "122": "STAGE",
-            "212": "STALE"
+            "212": {
+              "word": "STAVE",
+              "scoreMap": {
+                "401": "STALE"
+              }
+            },
+            "221": "STAGE",
+            "302": "STATE"
           }
         },
         "113": {
-          "word": "ACORN",
+          "word": "ACHAR",
           "scoreMap": {
-            "113": "SHARE",
-            "122": "SNARE",
-            "212": "SCARE"
+            "23": "SNARE",
+            "32": "SHARE",
+            "122": "SCARE"
           }
         },
         "122": "SPARE",
-        "203": "STAVE",
+        "203": "STAKE",
         "212": "STORE"
       }
     }

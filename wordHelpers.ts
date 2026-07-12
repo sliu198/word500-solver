@@ -29,9 +29,9 @@ export const compare = (input: string, candidate: string): number => {
   });
 
   const red = Object.values(letterCounts).reduce((prev, curr) => {
-    if (curr >= 0) return prev;
+    if (curr <= 0) return prev;
 
-    return prev - curr;
+    return prev + curr;
   }, 0);
 
   const yellow = candidate.length - green - red;
@@ -39,63 +39,47 @@ export const compare = (input: string, candidate: string): number => {
   return green * 100 + yellow * 10 + red;
 };
 
-export const computeScoreMap = (
-  word: string,
-  candidates: Array<string>,
-): Record<number, Array<string>> => {
-  const scoreMap: Record<number, Array<string>> = {};
-  const scoreMapProxy = new Proxy<Record<string | symbol, Array<string>>>(
-    scoreMap,
-    {
-      get(target, property) {
-        const current = target[property];
-        return current || (target[property] = []);
-      },
-    },
-  );
-
-  for (const candidate of candidates) {
-    const score = compare(word, candidate);
-    scoreMapProxy[score].push(candidate);
-  }
-
-  return scoreMap;
-};
-
 export const computeEntropy = (
-  scoreMap: Record<number, Array<string>>,
+  scoreMap: Record<number, Set<string>>,
 ): number => {
   return Object.values(scoreMap).reduce((prev, curr) => {
-    return prev -= curr.length * Math.log(curr.length);
+    return prev -= curr.size * Math.log(curr.size);
   }, 0);
 };
 
 export const computeBestWord = (
-  candidateList: Array<string>,
-  wordList?: Array<string>,
+  wordScores: Record<string, Record<string, number>>,
+  candidates: Set<string>
 ): {
   word: string;
-  scoreMap: Record<number, Array<string>>;
+  scoreCandidates: Record<number, Set<string>>;
 } => {
-  if (!candidateList.length) {
-    throw new Error("empty word list");
-  }
-  if (!wordList) wordList = candidateList;
-  let bestWord: string = "";
-  let bestScoreMap: Record<number, Array<string>> = {};
-  let bestEntropy = -Infinity;
-  for (const word of wordList) {
-    const scoreMap = computeScoreMap(word, candidateList);
-    const entropy = computeEntropy(scoreMap);
-    if (entropy > bestEntropy) {
-      bestWord = word;
-      bestScoreMap = scoreMap;
-      bestEntropy = entropy;
+  let topWord = ''
+  let topScoreCandidates: Record<number, Set<string>> = {}
+  let topEntropy = -Infinity
+  for (const [word, candidateScoreMap] of Object.entries(wordScores)) {
+    const scoreCandidates: Record<number, Set<string>> = {}
+    for (const candidate of candidates) {
+      const score = candidateScoreMap[candidate];
+      (
+        scoreCandidates[score]
+        || (scoreCandidates[score] = new Set())
+      ).add(candidate)
+    }
+    const entropy = computeEntropy(scoreCandidates)
+
+    if (entropy < topEntropy) continue;
+    else if (
+      entropy > topEntropy || candidates.has(word)
+    ) {
+      topWord = word
+      topScoreCandidates = scoreCandidates
+      topEntropy = entropy
     }
   }
 
   return {
-    word: bestWord,
-    scoreMap: bestScoreMap,
-  };
+    word: topWord,
+    scoreCandidates: topScoreCandidates
+  }
 };
